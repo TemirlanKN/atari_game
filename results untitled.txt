@@ -1,0 +1,2727 @@
+Episode 1: Total Reward = -105.19999999999993, Avg Actor Loss = -0.3361, Avg Critic Loss = 18.8177
+
+--- Statistics at Episode 1 ---
+Actor Layer 1 Conv Weights Average: -0.001822004676796496
+Actor Layer 1 FC Weights Average: -4.307124254410155e-05
+Critic Layer 1 Conv Weights Average: 0.0005191856762394309
+Critic Layer 1 FC Weights Average: 5.652684922097251e-05
+Average Actor Loss: -0.33613534852778226
+Average Critic Loss: 18.817738783492345
+--- End of Statistics ---
+
+Episode 2: Total Reward = -103.63999999999997, Avg Actor Loss = -0.5003, Avg Critic Loss = 26.9176
+
+--- Statistics at Episode 2 ---
+Actor Layer 1 Conv Weights Average: -0.0012299841037020087
+Actor Layer 1 FC Weights Average: -2.0066079741809517e-05
+Critic Layer 1 Conv Weights Average: 0.0013842345215380192
+Critic Layer 1 FC Weights Average: -3.317037771921605e-05
+Average Actor Loss: -0.5003291115432952
+Average Critic Loss: 26.917643487371052
+--- End of Statistics ---
+
+Episode 3: Total Reward = -104.47999999999995, Avg Actor Loss = -0.4073, Avg Critic Loss = 21.8518
+
+--- Statistics at Episode 3 ---
+Actor Layer 1 Conv Weights Average: -0.0002582086017355323
+Actor Layer 1 FC Weights Average: -1.9477382011245936e-05
+Critic Layer 1 Conv Weights Average: 0.0005936442757956684
+Critic Layer 1 FC Weights Average: 5.848253931617364e-05
+Average Actor Loss: -0.40732700324872745
+Average Critic Loss: 21.851758380598497
+--- End of Statistics ---
+
+Episode 4: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0020, Avg Critic Loss = 20.2631
+
+--- Statistics at Episode 4 ---
+Actor Layer 1 Conv Weights Average: 0.0012343856506049633
+Actor Layer 1 FC Weights Average: 5.132070145918988e-05
+Critic Layer 1 Conv Weights Average: 0.0002687193045858294
+Critic Layer 1 FC Weights Average: -0.0001970871235243976
+Average Actor Loss: 0.0020004357327432975
+Average Critic Loss: 20.263060949621376
+--- End of Statistics ---
+
+Episode 5: Total Reward = -104.83999999999995, Avg Actor Loss = -0.0000, Avg Critic Loss = 20.1984
+
+--- Statistics at Episode 5 ---
+Actor Layer 1 Conv Weights Average: 0.0012335918145254254
+Actor Layer 1 FC Weights Average: 4.295918915886432e-05
+Critic Layer 1 Conv Weights Average: -0.00023191429500002414
+Critic Layer 1 FC Weights Average: -0.00027998999576084316
+Average Actor Loss: -1.980873402890219e-08
+Average Critic Loss: 20.198350541352056
+--- End of Statistics ---
+
+Episode 6: Total Reward = -104.83999999999995, Avg Actor Loss = -0.0000, Avg Critic Loss = 20.1338
+
+--- Statistics at Episode 6 ---
+Actor Layer 1 Conv Weights Average: 0.0012312595499679446
+Actor Layer 1 FC Weights Average: 3.0348541258717887e-05
+Critic Layer 1 Conv Weights Average: -0.0003026836784556508
+Critic Layer 1 FC Weights Average: -0.0003732626501005143
+Average Actor Loss: -9.40503191385989e-08
+Average Critic Loss: 20.133841266626284
+--- End of Statistics ---
+
+Episode 7: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 20.1991
+
+--- Statistics at Episode 7 ---
+Actor Layer 1 Conv Weights Average: 0.0012288977159187198
+Actor Layer 1 FC Weights Average: 2.8326609026407823e-05
+Critic Layer 1 Conv Weights Average: -0.0013712276704609394
+Critic Layer 1 FC Weights Average: -0.0005247932858765125
+Average Actor Loss: 3.3693146057199e-08
+Average Critic Loss: 20.199076437126354
+--- End of Statistics ---
+
+Episode 8: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 17.8679
+
+--- Statistics at Episode 8 ---
+Actor Layer 1 Conv Weights Average: 0.0012287745485082269
+Actor Layer 1 FC Weights Average: 4.0928996895672753e-05
+Critic Layer 1 Conv Weights Average: -0.0022546013351529837
+Critic Layer 1 FC Weights Average: -0.00036579446168616414
+Average Actor Loss: 1.0735665005684515e-07
+Average Critic Loss: 17.86792756005724
+--- End of Statistics ---
+
+Episode 9: Total Reward = -104.83999999999995, Avg Actor Loss = -0.0000, Avg Critic Loss = 20.1719
+
+--- Statistics at Episode 9 ---
+Actor Layer 1 Conv Weights Average: 0.0012263734824955463
+Actor Layer 1 FC Weights Average: 4.090086440555751e-05
+Critic Layer 1 Conv Weights Average: -0.0022239803802222013
+Critic Layer 1 FC Weights Average: -0.0003053974942304194
+Average Actor Loss: -1.117257393501527e-08
+Average Critic Loss: 20.171946757072583
+--- End of Statistics ---
+
+Episode 10: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 18.6503
+
+--- Statistics at Episode 10 ---
+Actor Layer 1 Conv Weights Average: 0.0012256968766450882
+Actor Layer 1 FC Weights Average: 4.74361986562144e-05
+Critic Layer 1 Conv Weights Average: -0.002661759266629815
+Critic Layer 1 FC Weights Average: -0.0006106982473284006
+Average Actor Loss: 6.842981862229295e-08
+Average Critic Loss: 18.65032551996021
+--- End of Statistics ---
+
+Episode 11: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 17.6069
+
+--- Statistics at Episode 11 ---
+Actor Layer 1 Conv Weights Average: 0.0012279471848160028
+Actor Layer 1 FC Weights Average: 5.4754102166043594e-05
+Critic Layer 1 Conv Weights Average: -0.0029497938230633736
+Critic Layer 1 FC Weights Average: -0.0004740755830425769
+Average Actor Loss: 2.31046188852306e-08
+Average Critic Loss: 17.60693017777197
+--- End of Statistics ---
+
+Episode 12: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 17.0583
+
+--- Statistics at Episode 12 ---
+Actor Layer 1 Conv Weights Average: 0.0012295774649828672
+Actor Layer 1 FC Weights Average: 6.0052654589526355e-05
+Critic Layer 1 Conv Weights Average: -0.0031124455854296684
+Critic Layer 1 FC Weights Average: -0.00041081977542489767
+Average Actor Loss: 3.004584451753353e-08
+Average Critic Loss: 17.058250060885396
+--- End of Statistics ---
+
+Episode 13: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 16.7739
+
+--- Statistics at Episode 13 ---
+Actor Layer 1 Conv Weights Average: 0.0012322557158768177
+Actor Layer 1 FC Weights Average: 6.529883103212342e-05
+Critic Layer 1 Conv Weights Average: -0.003165972186252475
+Critic Layer 1 FC Weights Average: -0.00038757509901188314
+Average Actor Loss: 1.518235412029398e-08
+Average Critic Loss: 16.773928461759112
+--- End of Statistics ---
+
+Episode 14: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 16.6401
+
+--- Statistics at Episode 14 ---
+Actor Layer 1 Conv Weights Average: 0.0012342752888798714
+Actor Layer 1 FC Weights Average: 6.909885269124061e-05
+Critic Layer 1 Conv Weights Average: -0.0032459793146699667
+Critic Layer 1 FC Weights Average: -0.0003867678460665047
+Average Actor Loss: 9.854695433111876e-09
+Average Critic Loss: 16.640123569933017
+--- End of Statistics ---
+
+Episode 15: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 16.5073
+
+--- Statistics at Episode 15 ---
+Actor Layer 1 Conv Weights Average: 0.0012356116203591228
+Actor Layer 1 FC Weights Average: 7.151596946641803e-05
+Critic Layer 1 Conv Weights Average: -0.0033418647944927216
+Critic Layer 1 FC Weights Average: -0.0003859176067635417
+Average Actor Loss: 5.067400074811833e-09
+Average Critic Loss: 16.507301755761894
+--- End of Statistics ---
+
+Episode 16: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 16.4456
+
+--- Statistics at Episode 16 ---
+Actor Layer 1 Conv Weights Average: 0.0012362210545688868
+Actor Layer 1 FC Weights Average: 7.266400643857196e-05
+Critic Layer 1 Conv Weights Average: -0.00342383305542171
+Critic Layer 1 FC Weights Average: -0.00036705785896629095
+Average Actor Loss: 1.2570120724377638e-09
+Average Critic Loss: 16.445648585208314
+--- End of Statistics ---
+
+Episode 17: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 16.3843
+
+--- Statistics at Episode 17 ---
+Actor Layer 1 Conv Weights Average: 0.0012365259462967515
+Actor Layer 1 FC Weights Average: 7.331030792556703e-05
+Critic Layer 1 Conv Weights Average: -0.0034994727466255426
+Critic Layer 1 FC Weights Average: -0.00037537491880357265
+Average Actor Loss: 0.0
+Average Critic Loss: 16.384301184507844
+--- End of Statistics ---
+
+Episode 18: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 16.3997
+
+--- Statistics at Episode 18 ---
+Actor Layer 1 Conv Weights Average: 0.0012368739116936922
+Actor Layer 1 FC Weights Average: 7.398763409582898e-05
+Critic Layer 1 Conv Weights Average: -0.0035847772378474474
+Critic Layer 1 FC Weights Average: -0.00035758348531089723
+Average Actor Loss: 0.0
+Average Critic Loss: 16.399659125820044
+--- End of Statistics ---
+
+Episode 19: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 16.2952
+
+--- Statistics at Episode 19 ---
+Actor Layer 1 Conv Weights Average: 0.0012372498167678714
+Actor Layer 1 FC Weights Average: 7.468373223673552e-05
+Critic Layer 1 Conv Weights Average: -0.003642871743068099
+Critic Layer 1 FC Weights Average: -0.0003779015096370131
+Average Actor Loss: 0.0
+Average Critic Loss: 16.295165465632575
+--- End of Statistics ---
+
+Episode 20: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 16.2360
+
+--- Statistics at Episode 20 ---
+Actor Layer 1 Conv Weights Average: 0.001237649586983025
+Actor Layer 1 FC Weights Average: 7.538665522588417e-05
+Critic Layer 1 Conv Weights Average: -0.0037675583735108376
+Critic Layer 1 FC Weights Average: -0.0003600874333642423
+Average Actor Loss: 0.0
+Average Critic Loss: 16.236006474004565
+--- End of Statistics ---
+
+Episode 21: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 16.1440
+
+--- Statistics at Episode 21 ---
+Actor Layer 1 Conv Weights Average: 0.0012380839325487614
+Actor Layer 1 FC Weights Average: 7.608487794641405e-05
+Critic Layer 1 Conv Weights Average: -0.0038225564640015364
+Critic Layer 1 FC Weights Average: -0.0003746172005776316
+Average Actor Loss: 0.0
+Average Critic Loss: 16.14402740948435
+--- End of Statistics ---
+
+Episode 22: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 16.0949
+
+--- Statistics at Episode 22 ---
+Actor Layer 1 Conv Weights Average: 0.0012385545996949077
+Actor Layer 1 FC Weights Average: 7.677660323679447e-05
+Critic Layer 1 Conv Weights Average: -0.003949030302464962
+Critic Layer 1 FC Weights Average: -0.0004195342480670661
+Average Actor Loss: 0.0
+Average Critic Loss: 16.094943251053216
+--- End of Statistics ---
+
+Episode 23: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 16.0971
+
+--- Statistics at Episode 23 ---
+Actor Layer 1 Conv Weights Average: 0.0012390430783852935
+Actor Layer 1 FC Weights Average: 7.743864989606664e-05
+Critic Layer 1 Conv Weights Average: -0.003911858890205622
+Critic Layer 1 FC Weights Average: -0.0004402301856316626
+Average Actor Loss: 0.0
+Average Critic Loss: 16.097092123013997
+--- End of Statistics ---
+
+Episode 24: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 16.0412
+
+--- Statistics at Episode 24 ---
+Actor Layer 1 Conv Weights Average: 0.0012395393569022417
+Actor Layer 1 FC Weights Average: 7.80613481765613e-05
+Critic Layer 1 Conv Weights Average: -0.004094138741493225
+Critic Layer 1 FC Weights Average: -0.00042201598989777267
+Average Actor Loss: 0.0
+Average Critic Loss: 16.041215903977367
+--- End of Statistics ---
+
+Episode 25: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 15.9173
+
+--- Statistics at Episode 25 ---
+Actor Layer 1 Conv Weights Average: 0.0012400553096085787
+Actor Layer 1 FC Weights Average: 7.865699444664642e-05
+Critic Layer 1 Conv Weights Average: -0.004129060078412294
+Critic Layer 1 FC Weights Average: -0.0004577085783239454
+Average Actor Loss: 0.0
+Average Critic Loss: 15.917251249573784
+--- End of Statistics ---
+
+Episode 26: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 15.8128
+
+--- Statistics at Episode 26 ---
+Actor Layer 1 Conv Weights Average: 0.0012405755696818233
+Actor Layer 1 FC Weights Average: 7.921708311187103e-05
+Critic Layer 1 Conv Weights Average: -0.004195381887257099
+Critic Layer 1 FC Weights Average: -0.00045548868365585804
+Average Actor Loss: 0.0
+Average Critic Loss: 15.812832320713198
+--- End of Statistics ---
+
+Episode 27: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 15.7554
+
+--- Statistics at Episode 27 ---
+Actor Layer 1 Conv Weights Average: 0.001241092337295413
+Actor Layer 1 FC Weights Average: 7.973847823450342e-05
+Critic Layer 1 Conv Weights Average: -0.0041355243884027
+Critic Layer 1 FC Weights Average: -0.0005072043859399855
+Average Actor Loss: 0.0
+Average Critic Loss: 15.755434495834812
+--- End of Statistics ---
+
+Episode 28: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 15.6985
+
+--- Statistics at Episode 28 ---
+Actor Layer 1 Conv Weights Average: 0.001241591526195407
+Actor Layer 1 FC Weights Average: 8.021503163035959e-05
+Critic Layer 1 Conv Weights Average: -0.004289057571440935
+Critic Layer 1 FC Weights Average: -0.0004968310240656137
+Average Actor Loss: 0.0
+Average Critic Loss: 15.698530014929274
+--- End of Statistics ---
+
+Episode 29: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 15.9039
+
+--- Statistics at Episode 29 ---
+Actor Layer 1 Conv Weights Average: 0.0012420545099303126
+Actor Layer 1 FC Weights Average: 8.063868881436065e-05
+Critic Layer 1 Conv Weights Average: -0.004122497048228979
+Critic Layer 1 FC Weights Average: -0.0006115593714639544
+Average Actor Loss: 0.0
+Average Critic Loss: 15.90387870503225
+--- End of Statistics ---
+
+Episode 30: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 16.4544
+
+--- Statistics at Episode 30 ---
+Actor Layer 1 Conv Weights Average: 0.0012423855951055884
+Actor Layer 1 FC Weights Average: 8.097953832475469e-05
+Critic Layer 1 Conv Weights Average: -0.004592224024236202
+Critic Layer 1 FC Weights Average: -0.0006257056375034153
+Average Actor Loss: 0.0
+Average Critic Loss: 16.45444269344049
+--- End of Statistics ---
+
+Episode 31: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 15.6746
+
+--- Statistics at Episode 31 ---
+Actor Layer 1 Conv Weights Average: 0.001242707367055118
+Actor Layer 1 FC Weights Average: 8.129332127282396e-05
+Critic Layer 1 Conv Weights Average: -0.0044405353255569935
+Critic Layer 1 FC Weights Average: -0.0006366666057147086
+Average Actor Loss: 0.0
+Average Critic Loss: 15.674565379696572
+--- End of Statistics ---
+
+Episode 32: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 18.1960
+
+--- Statistics at Episode 32 ---
+Actor Layer 1 Conv Weights Average: 0.0012429512571543455
+Actor Layer 1 FC Weights Average: 8.153136150212958e-05
+Critic Layer 1 Conv Weights Average: -0.004308413248509169
+Critic Layer 1 FC Weights Average: -0.000980798969976604
+Average Actor Loss: 0.0
+Average Critic Loss: 18.195977689401158
+--- End of Statistics ---
+
+Episode 33: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 18.6769
+
+--- Statistics at Episode 33 ---
+Actor Layer 1 Conv Weights Average: 0.0012429723283275962
+Actor Layer 1 FC Weights Average: 8.160694414982572e-05
+Critic Layer 1 Conv Weights Average: -0.004409337416291237
+Critic Layer 1 FC Weights Average: -0.0009835410164669156
+Average Actor Loss: 0.0
+Average Critic Loss: 18.676872106446677
+--- End of Statistics ---
+
+Episode 34: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 15.8901
+
+--- Statistics at Episode 34 ---
+Actor Layer 1 Conv Weights Average: 0.001243192469701171
+Actor Layer 1 FC Weights Average: 8.180704026017338e-05
+Critic Layer 1 Conv Weights Average: -0.004558457527309656
+Critic Layer 1 FC Weights Average: -0.0008824813994579017
+Average Actor Loss: 0.0
+Average Critic Loss: 15.890056497498207
+--- End of Statistics ---
+
+Episode 35: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 15.5961
+
+--- Statistics at Episode 35 ---
+Actor Layer 1 Conv Weights Average: 0.0012434902600944042
+Actor Layer 1 FC Weights Average: 8.204007463064045e-05
+Critic Layer 1 Conv Weights Average: -0.004521592985838652
+Critic Layer 1 FC Weights Average: -0.0008528786129318178
+Average Actor Loss: 0.0
+Average Critic Loss: 15.596118548934149
+--- End of Statistics ---
+
+Episode 36: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 15.3749
+
+--- Statistics at Episode 36 ---
+Actor Layer 1 Conv Weights Average: 0.001243803184479475
+Actor Layer 1 FC Weights Average: 8.226585487136617e-05
+Critic Layer 1 Conv Weights Average: -0.004575567785650492
+Critic Layer 1 FC Weights Average: -0.00088120112195611
+Average Actor Loss: 0.0
+Average Critic Loss: 15.374946051714454
+--- End of Statistics ---
+
+Episode 37: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 15.1652
+
+--- Statistics at Episode 37 ---
+Actor Layer 1 Conv Weights Average: 0.0012441017897799611
+Actor Layer 1 FC Weights Average: 8.2466758613009e-05
+Critic Layer 1 Conv Weights Average: -0.004649256821721792
+Critic Layer 1 FC Weights Average: -0.0008573167724534869
+Average Actor Loss: 0.0
+Average Critic Loss: 15.165204911797405
+--- End of Statistics ---
+
+Episode 38: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 15.1960
+
+--- Statistics at Episode 38 ---
+Actor Layer 1 Conv Weights Average: 0.0012443895684555173
+Actor Layer 1 FC Weights Average: 8.264672214863822e-05
+Critic Layer 1 Conv Weights Average: -0.004625614266842604
+Critic Layer 1 FC Weights Average: -0.0008886702707968652
+Average Actor Loss: 0.0
+Average Critic Loss: 15.19595561972253
+--- End of Statistics ---
+
+Episode 39: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 19.7437
+
+--- Statistics at Episode 39 ---
+Actor Layer 1 Conv Weights Average: 0.0012446196051314473
+Actor Layer 1 FC Weights Average: 8.278318273369223e-05
+Critic Layer 1 Conv Weights Average: -0.0048025925643742085
+Critic Layer 1 FC Weights Average: -0.0010826708748936653
+Average Actor Loss: 0.0
+Average Critic Loss: 19.743660676418866
+--- End of Statistics ---
+
+Episode 40: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 19.5462
+
+--- Statistics at Episode 40 ---
+Actor Layer 1 Conv Weights Average: 0.0012443519663065672
+Actor Layer 1 FC Weights Average: 8.268588862847537e-05
+Critic Layer 1 Conv Weights Average: -0.005496951285749674
+Critic Layer 1 FC Weights Average: -0.00048226385843008757
+Average Actor Loss: 0.0
+Average Critic Loss: 19.546184229102163
+--- End of Statistics ---
+
+Episode 41: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 17.8586
+
+--- Statistics at Episode 41 ---
+Actor Layer 1 Conv Weights Average: 0.0012441595317795873
+Actor Layer 1 FC Weights Average: 8.263438940048218e-05
+Critic Layer 1 Conv Weights Average: -0.005583539605140686
+Critic Layer 1 FC Weights Average: -0.00027468291227705777
+Average Actor Loss: 0.0
+Average Critic Loss: 17.85860299622348
+--- End of Statistics ---
+
+Episode 42: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 17.1063
+
+--- Statistics at Episode 42 ---
+Actor Layer 1 Conv Weights Average: 0.001244099112227559
+Actor Layer 1 FC Weights Average: 8.263462950708345e-05
+Critic Layer 1 Conv Weights Average: -0.005705405026674271
+Critic Layer 1 FC Weights Average: -0.00019048481772188097
+Average Actor Loss: 0.0
+Average Critic Loss: 17.106314602835884
+--- End of Statistics ---
+
+Episode 43: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 19.5656
+
+--- Statistics at Episode 43 ---
+Actor Layer 1 Conv Weights Average: 0.0012440591817721725
+Actor Layer 1 FC Weights Average: 8.264118514489383e-05
+Critic Layer 1 Conv Weights Average: -0.0054847183637320995
+Critic Layer 1 FC Weights Average: -0.0003635000321082771
+Average Actor Loss: 0.0
+Average Critic Loss: 19.565581862694792
+--- End of Statistics ---
+
+Episode 44: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 17.8215
+
+--- Statistics at Episode 44 ---
+Actor Layer 1 Conv Weights Average: 0.001244043349288404
+Actor Layer 1 FC Weights Average: 8.265393262263387e-05
+Critic Layer 1 Conv Weights Average: -0.005983366165310144
+Critic Layer 1 FC Weights Average: -0.0004631535557564348
+Average Actor Loss: 0.0
+Average Critic Loss: 17.821484244195076
+--- End of Statistics ---
+
+Episode 45: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 16.4300
+
+--- Statistics at Episode 45 ---
+Actor Layer 1 Conv Weights Average: 0.0012441034195944667
+Actor Layer 1 FC Weights Average: 8.268061355920509e-05
+Critic Layer 1 Conv Weights Average: -0.006000449415296316
+Critic Layer 1 FC Weights Average: -0.0003838775446638465
+Average Actor Loss: 0.0
+Average Critic Loss: 16.429961400249983
+--- End of Statistics ---
+
+Episode 46: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 15.6286
+
+--- Statistics at Episode 46 ---
+Actor Layer 1 Conv Weights Average: 0.0012444680323824286
+Actor Layer 1 FC Weights Average: 8.275789150502533e-05
+Critic Layer 1 Conv Weights Average: -0.0060225725173950195
+Critic Layer 1 FC Weights Average: -0.0003604591474868357
+Average Actor Loss: 0.0
+Average Critic Loss: 15.628628583999522
+--- End of Statistics ---
+
+Episode 47: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 15.5372
+
+--- Statistics at Episode 47 ---
+Actor Layer 1 Conv Weights Average: 0.0012450561625882983
+Actor Layer 1 FC Weights Average: 8.285512740258127e-05
+Critic Layer 1 Conv Weights Average: -0.005950611550360918
+Critic Layer 1 FC Weights Average: -0.00040962768252938986
+Average Actor Loss: 0.0
+Average Critic Loss: 15.537227766924213
+--- End of Statistics ---
+
+Episode 48: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 15.0742
+
+--- Statistics at Episode 48 ---
+Actor Layer 1 Conv Weights Average: 0.0012457392876967788
+Actor Layer 1 FC Weights Average: 8.294564031530172e-05
+Critic Layer 1 Conv Weights Average: -0.0061378441751003265
+Critic Layer 1 FC Weights Average: -0.00038065589615143836
+Average Actor Loss: 0.0
+Average Critic Loss: 15.074190101314842
+--- End of Statistics ---
+
+Episode 49: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 15.5031
+
+--- Statistics at Episode 49 ---
+Actor Layer 1 Conv Weights Average: 0.0012466063490137458
+Actor Layer 1 FC Weights Average: 8.303717913804576e-05
+Critic Layer 1 Conv Weights Average: -0.006038208957761526
+Critic Layer 1 FC Weights Average: -0.000873428478371352
+Average Actor Loss: 0.0
+Average Critic Loss: 15.503104335451578
+--- End of Statistics ---
+
+Episode 50: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 15.0350
+
+--- Statistics at Episode 50 ---
+Actor Layer 1 Conv Weights Average: 0.001247402629815042
+Actor Layer 1 FC Weights Average: 8.31053766887635e-05
+Critic Layer 1 Conv Weights Average: -0.005967988166958094
+Critic Layer 1 FC Weights Average: -0.0008771638968028128
+Average Actor Loss: 0.0
+Average Critic Loss: 15.035041592214663
+--- End of Statistics ---
+
+Episode 51: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 14.9602
+
+--- Statistics at Episode 51 ---
+Actor Layer 1 Conv Weights Average: 0.0012483552563935518
+Actor Layer 1 FC Weights Average: 8.317072206409648e-05
+Critic Layer 1 Conv Weights Average: -0.0061647724360227585
+Critic Layer 1 FC Weights Average: -0.0008115312666632235
+Average Actor Loss: 0.0
+Average Critic Loss: 14.960161703963701
+--- End of Statistics ---
+
+Episode 52: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 13.8859
+
+--- Statistics at Episode 52 ---
+Actor Layer 1 Conv Weights Average: 0.0012497740099206567
+Actor Layer 1 FC Weights Average: 8.324951340910047e-05
+Critic Layer 1 Conv Weights Average: -0.006083134561777115
+Critic Layer 1 FC Weights Average: -0.0007952246232889593
+Average Actor Loss: 0.0
+Average Critic Loss: 13.885909891040653
+--- End of Statistics ---
+
+Episode 53: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 14.1151
+
+--- Statistics at Episode 53 ---
+Actor Layer 1 Conv Weights Average: 0.0012513495748862624
+Actor Layer 1 FC Weights Average: 8.332163997692987e-05
+Critic Layer 1 Conv Weights Average: -0.0059516835026443005
+Critic Layer 1 FC Weights Average: -0.0009116847068071365
+Average Actor Loss: 0.0
+Average Critic Loss: 14.115121378499888
+--- End of Statistics ---
+
+Episode 54: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 14.0482
+
+--- Statistics at Episode 54 ---
+Actor Layer 1 Conv Weights Average: 0.0012529239756986499
+Actor Layer 1 FC Weights Average: 8.338037878274918e-05
+Critic Layer 1 Conv Weights Average: -0.006194017361849546
+Critic Layer 1 FC Weights Average: -0.0008446463034488261
+Average Actor Loss: 0.0
+Average Critic Loss: 14.048162408549492
+--- End of Statistics ---
+
+Episode 55: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 13.0576
+
+--- Statistics at Episode 55 ---
+Actor Layer 1 Conv Weights Average: 0.0012549831299111247
+Actor Layer 1 FC Weights Average: 8.3443897892721e-05
+Critic Layer 1 Conv Weights Average: -0.006120632868260145
+Critic Layer 1 FC Weights Average: -0.000894497032277286
+Average Actor Loss: 0.0
+Average Critic Loss: 13.057579078206363
+--- End of Statistics ---
+
+Episode 56: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 13.1314
+
+--- Statistics at Episode 56 ---
+Actor Layer 1 Conv Weights Average: 0.0012571631232276559
+Actor Layer 1 FC Weights Average: 8.349969721166417e-05
+Critic Layer 1 Conv Weights Average: -0.006040770560503006
+Critic Layer 1 FC Weights Average: -0.0009379821713082492
+Average Actor Loss: 0.0
+Average Critic Loss: 13.131418434240489
+--- End of Statistics ---
+
+Episode 57: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 13.3694
+
+--- Statistics at Episode 57 ---
+Actor Layer 1 Conv Weights Average: 0.0012594410218298435
+Actor Layer 1 FC Weights Average: 8.35481914691627e-05
+Critic Layer 1 Conv Weights Average: -0.006248288322240114
+Critic Layer 1 FC Weights Average: -0.0009002092992886901
+Average Actor Loss: 0.0
+Average Critic Loss: 13.369441777841194
+--- End of Statistics ---
+
+Episode 58: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 12.6696
+
+--- Statistics at Episode 58 ---
+Actor Layer 1 Conv Weights Average: 0.001262014964595437
+Actor Layer 1 FC Weights Average: 8.359439380001277e-05
+Critic Layer 1 Conv Weights Average: -0.006114212796092033
+Critic Layer 1 FC Weights Average: -0.0009869300993159413
+Average Actor Loss: 0.0
+Average Critic Loss: 12.66957446780462
+--- End of Statistics ---
+
+Episode 59: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 14.9816
+
+--- Statistics at Episode 59 ---
+Actor Layer 1 Conv Weights Average: 0.001263192156329751
+Actor Layer 1 FC Weights Average: 8.36123144836165e-05
+Critic Layer 1 Conv Weights Average: -0.00568690150976181
+Critic Layer 1 FC Weights Average: -0.0008759359479881823
+Average Actor Loss: 0.0
+Average Critic Loss: 14.981635409961198
+--- End of Statistics ---
+
+Episode 60: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 14.1843
+
+--- Statistics at Episode 60 ---
+Actor Layer 1 Conv Weights Average: 0.001265660859644413
+Actor Layer 1 FC Weights Average: 8.3644270489458e-05
+Critic Layer 1 Conv Weights Average: -0.005728113930672407
+Critic Layer 1 FC Weights Average: -0.0010145275155082345
+Average Actor Loss: 0.0
+Average Critic Loss: 14.184326467300775
+--- End of Statistics ---
+
+Episode 61: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 17.3570
+
+--- Statistics at Episode 61 ---
+Actor Layer 1 Conv Weights Average: 0.0012674671597778797
+Actor Layer 1 FC Weights Average: 8.366446127183735e-05
+Critic Layer 1 Conv Weights Average: -0.005363600794225931
+Critic Layer 1 FC Weights Average: -0.0008046053117141128
+Average Actor Loss: 0.0
+Average Critic Loss: 17.357038431057678
+--- End of Statistics ---
+
+Episode 62: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 12.0556
+
+--- Statistics at Episode 62 ---
+Actor Layer 1 Conv Weights Average: 0.001270541688427329
+Actor Layer 1 FC Weights Average: 8.369344141101465e-05
+Critic Layer 1 Conv Weights Average: -0.005472710356116295
+Critic Layer 1 FC Weights Average: -0.0007701166323386133
+Average Actor Loss: 0.0
+Average Critic Loss: 12.055560129035763
+--- End of Statistics ---
+
+Episode 63: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 11.3631
+
+--- Statistics at Episode 63 ---
+Actor Layer 1 Conv Weights Average: 0.001274846843443811
+Actor Layer 1 FC Weights Average: 8.372943557333201e-05
+Critic Layer 1 Conv Weights Average: -0.005598301533609629
+Critic Layer 1 FC Weights Average: -0.0007752226083539426
+Average Actor Loss: 0.0
+Average Critic Loss: 11.363138986210961
+--- End of Statistics ---
+
+Episode 64: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 11.4401
+
+--- Statistics at Episode 64 ---
+Actor Layer 1 Conv Weights Average: 0.0012792537454515696
+Actor Layer 1 FC Weights Average: 8.37616971693933e-05
+Critic Layer 1 Conv Weights Average: -0.005513037089258432
+Critic Layer 1 FC Weights Average: -0.0008397891069762409
+Average Actor Loss: 0.0
+Average Critic Loss: 11.440060675572397
+--- End of Statistics ---
+
+Episode 65: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 11.1285
+
+--- Statistics at Episode 65 ---
+Actor Layer 1 Conv Weights Average: 0.001284085912629962
+Actor Layer 1 FC Weights Average: 8.379263454116881e-05
+Critic Layer 1 Conv Weights Average: -0.005680723115801811
+Critic Layer 1 FC Weights Average: -0.0007958791684359312
+Average Actor Loss: 0.0
+Average Critic Loss: 11.128532113362366
+--- End of Statistics ---
+
+Episode 66: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 10.9592
+
+--- Statistics at Episode 66 ---
+Actor Layer 1 Conv Weights Average: 0.0012887547491118312
+Actor Layer 1 FC Weights Average: 8.381878433283418e-05
+Critic Layer 1 Conv Weights Average: -0.0055414545349776745
+Critic Layer 1 FC Weights Average: -0.0008819322683848441
+Average Actor Loss: 0.0
+Average Critic Loss: 10.959153796320381
+--- End of Statistics ---
+
+Episode 67: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 9.8647
+
+--- Statistics at Episode 67 ---
+Actor Layer 1 Conv Weights Average: 0.0012941921595484018
+Actor Layer 1 FC Weights Average: 8.384563261643052e-05
+Critic Layer 1 Conv Weights Average: -0.005618892144411802
+Critic Layer 1 FC Weights Average: -0.000853417906910181
+Average Actor Loss: 0.0
+Average Critic Loss: 9.864715545750556
+--- End of Statistics ---
+
+Episode 68: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 9.6722
+
+--- Statistics at Episode 68 ---
+Actor Layer 1 Conv Weights Average: 0.0012997082667425275
+Actor Layer 1 FC Weights Average: 8.386970876017585e-05
+Critic Layer 1 Conv Weights Average: -0.005617253016680479
+Critic Layer 1 FC Weights Average: -0.0008916027145460248
+Average Actor Loss: 0.0
+Average Critic Loss: 9.672172730551265
+--- End of Statistics ---
+
+Episode 69: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 9.3704
+
+--- Statistics at Episode 69 ---
+Actor Layer 1 Conv Weights Average: 0.001305285724811256
+Actor Layer 1 FC Weights Average: 8.389121649088338e-05
+Critic Layer 1 Conv Weights Average: -0.005623556673526764
+Critic Layer 1 FC Weights Average: -0.0009170076809823513
+Average Actor Loss: 0.0
+Average Critic Loss: 9.370364824374814
+--- End of Statistics ---
+
+Episode 70: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 9.0711
+
+--- Statistics at Episode 70 ---
+Actor Layer 1 Conv Weights Average: 0.0013107956619933248
+Actor Layer 1 FC Weights Average: 8.391003211727366e-05
+Critic Layer 1 Conv Weights Average: -0.005578327924013138
+Critic Layer 1 FC Weights Average: -0.0009432658553123474
+Average Actor Loss: 0.0
+Average Critic Loss: 9.071053608895184
+--- End of Statistics ---
+
+Episode 71: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 11.1266
+
+--- Statistics at Episode 71 ---
+Actor Layer 1 Conv Weights Average: 0.001316327485255897
+Actor Layer 1 FC Weights Average: 8.39268250274472e-05
+Critic Layer 1 Conv Weights Average: -0.005754625890403986
+Critic Layer 1 FC Weights Average: -0.0009128354140557349
+Average Actor Loss: 0.0
+Average Critic Loss: 11.126590982997845
+--- End of Statistics ---
+
+Episode 72: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 8.2573
+
+--- Statistics at Episode 72 ---
+Actor Layer 1 Conv Weights Average: 0.0013219966785982251
+Actor Layer 1 FC Weights Average: 8.394210453843698e-05
+Critic Layer 1 Conv Weights Average: -0.005618972238153219
+Critic Layer 1 FC Weights Average: -0.0009848276386037469
+Average Actor Loss: 0.0
+Average Critic Loss: 8.257340523304919
+--- End of Statistics ---
+
+Episode 73: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 7.9987
+
+--- Statistics at Episode 73 ---
+Actor Layer 1 Conv Weights Average: 0.0013275743694975972
+Actor Layer 1 FC Weights Average: 8.395560143981129e-05
+Critic Layer 1 Conv Weights Average: -0.005594333168119192
+Critic Layer 1 FC Weights Average: -0.0009865282336249948
+Average Actor Loss: 0.0
+Average Critic Loss: 7.998669794710388
+--- End of Statistics ---
+
+Episode 74: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 7.6217
+
+--- Statistics at Episode 74 ---
+Actor Layer 1 Conv Weights Average: 0.0013334117829799652
+Actor Layer 1 FC Weights Average: 8.396830526180565e-05
+Critic Layer 1 Conv Weights Average: -0.005628235638141632
+Critic Layer 1 FC Weights Average: -0.0009976074798032641
+Average Actor Loss: 0.0
+Average Critic Loss: 7.621652195295115
+--- End of Statistics ---
+
+Episode 75: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 7.7022
+
+--- Statistics at Episode 75 ---
+Actor Layer 1 Conv Weights Average: 0.0013386178761720657
+Actor Layer 1 FC Weights Average: 8.397856436204165e-05
+Critic Layer 1 Conv Weights Average: -0.005547849461436272
+Critic Layer 1 FC Weights Average: -0.0010349099757149816
+Average Actor Loss: 0.0
+Average Critic Loss: 7.702213205389396
+--- End of Statistics ---
+
+Episode 76: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 9.0359
+
+--- Statistics at Episode 76 ---
+Actor Layer 1 Conv Weights Average: 0.0013445994118228555
+Actor Layer 1 FC Weights Average: 8.398935460718349e-05
+Critic Layer 1 Conv Weights Average: -0.005749750882387161
+Critic Layer 1 FC Weights Average: -0.0009789981413632631
+Average Actor Loss: 0.0
+Average Critic Loss: 9.03585560548776
+--- End of Statistics ---
+
+Episode 77: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 6.6052
+
+--- Statistics at Episode 77 ---
+Actor Layer 1 Conv Weights Average: 0.001350395381450653
+Actor Layer 1 FC Weights Average: 8.39990025269799e-05
+Critic Layer 1 Conv Weights Average: -0.005615654867142439
+Critic Layer 1 FC Weights Average: -0.0010285424068570137
+Average Actor Loss: 0.0
+Average Critic Loss: 6.605181185887243
+--- End of Statistics ---
+
+Episode 78: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 6.2625
+
+--- Statistics at Episode 78 ---
+Actor Layer 1 Conv Weights Average: 0.0013559837825596333
+Actor Layer 1 FC Weights Average: 8.400766091654077e-05
+Critic Layer 1 Conv Weights Average: -0.005617478396743536
+Critic Layer 1 FC Weights Average: -0.0010210952023044229
+Average Actor Loss: 0.0
+Average Critic Loss: 6.262497078122081
+--- End of Statistics ---
+
+Episode 79: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 6.3094
+
+--- Statistics at Episode 79 ---
+Actor Layer 1 Conv Weights Average: 0.0013606487773358822
+Actor Layer 1 FC Weights Average: 8.401446393691003e-05
+Critic Layer 1 Conv Weights Average: -0.005574034992605448
+Critic Layer 1 FC Weights Average: -0.0010441587073728442
+Average Actor Loss: 0.0
+Average Critic Loss: 6.309369017709398
+--- End of Statistics ---
+
+Episode 80: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 5.8538
+
+--- Statistics at Episode 80 ---
+Actor Layer 1 Conv Weights Average: 0.0013662934070453048
+Actor Layer 1 FC Weights Average: 8.402228559134528e-05
+Critic Layer 1 Conv Weights Average: -0.005682583898305893
+Critic Layer 1 FC Weights Average: -0.0010152551112696528
+Average Actor Loss: 0.0
+Average Critic Loss: 5.853764704117382
+--- End of Statistics ---
+
+Episode 81: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 5.7598
+
+--- Statistics at Episode 81 ---
+Actor Layer 1 Conv Weights Average: 0.0013696191599592566
+Actor Layer 1 FC Weights Average: 8.402665116591379e-05
+Critic Layer 1 Conv Weights Average: -0.005536865908652544
+Critic Layer 1 FC Weights Average: -0.0010148400906473398
+Average Actor Loss: 0.0
+Average Critic Loss: 5.759834438467394
+--- End of Statistics ---
+
+Episode 82: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 5.0128
+
+--- Statistics at Episode 82 ---
+Actor Layer 1 Conv Weights Average: 0.0013749189674854279
+Actor Layer 1 FC Weights Average: 8.403341053053737e-05
+Critic Layer 1 Conv Weights Average: -0.00563742034137249
+Critic Layer 1 FC Weights Average: -0.0009831493953242898
+Average Actor Loss: 0.0
+Average Critic Loss: 5.012765739606492
+--- End of Statistics ---
+
+Episode 83: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 4.9695
+
+--- Statistics at Episode 83 ---
+Actor Layer 1 Conv Weights Average: 0.0013784193433821201
+Actor Layer 1 FC Weights Average: 8.403772517340258e-05
+Critic Layer 1 Conv Weights Average: -0.005546049680560827
+Critic Layer 1 FC Weights Average: -0.0010073165176436305
+Average Actor Loss: 0.0
+Average Critic Loss: 4.9695020701545385
+--- End of Statistics ---
+
+Episode 84: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 4.5144
+
+--- Statistics at Episode 84 ---
+Actor Layer 1 Conv Weights Average: 0.0013827555812895298
+Actor Layer 1 FC Weights Average: 8.404294931096956e-05
+Critic Layer 1 Conv Weights Average: -0.005608236417174339
+Critic Layer 1 FC Weights Average: -0.0009795570513233542
+Average Actor Loss: 0.0
+Average Critic Loss: 4.514384009758952
+--- End of Statistics ---
+
+Episode 85: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 4.4329
+
+--- Statistics at Episode 85 ---
+Actor Layer 1 Conv Weights Average: 0.0013858274323865771
+Actor Layer 1 FC Weights Average: 8.40465581859462e-05
+Critic Layer 1 Conv Weights Average: -0.005566598381847143
+Critic Layer 1 FC Weights Average: -0.0009972031693905592
+Average Actor Loss: 0.0
+Average Critic Loss: 4.432932200389664
+--- End of Statistics ---
+
+Episode 86: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 3.9525
+
+--- Statistics at Episode 86 ---
+Actor Layer 1 Conv Weights Average: 0.0013896338641643524
+Actor Layer 1 FC Weights Average: 8.405096741626039e-05
+Critic Layer 1 Conv Weights Average: -0.005617056041955948
+Critic Layer 1 FC Weights Average: -0.000978368567302823
+Average Actor Loss: 0.0
+Average Critic Loss: 3.9525493664550897
+--- End of Statistics ---
+
+Episode 87: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 3.8453
+
+--- Statistics at Episode 87 ---
+Actor Layer 1 Conv Weights Average: 0.0013919706689193845
+Actor Layer 1 FC Weights Average: 8.405359403695911e-05
+Critic Layer 1 Conv Weights Average: -0.005571497604250908
+Critic Layer 1 FC Weights Average: -0.000969523680396378
+Average Actor Loss: 0.0
+Average Critic Loss: 3.845318624418193
+--- End of Statistics ---
+
+Episode 88: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 3.6328
+
+--- Statistics at Episode 88 ---
+Actor Layer 1 Conv Weights Average: 0.0013952585868537426
+Actor Layer 1 FC Weights Average: 8.405731932725757e-05
+Critic Layer 1 Conv Weights Average: -0.005634788889437914
+Critic Layer 1 FC Weights Average: -0.0009659260394982994
+Average Actor Loss: 0.0
+Average Critic Loss: 3.6327814245174896
+--- End of Statistics ---
+
+Episode 89: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 3.5048
+
+--- Statistics at Episode 89 ---
+Actor Layer 1 Conv Weights Average: 0.0013970598811283708
+Actor Layer 1 FC Weights Average: 8.405931293964386e-05
+Critic Layer 1 Conv Weights Average: -0.005579860415309668
+Critic Layer 1 FC Weights Average: -0.0009487087954767048
+Average Actor Loss: 0.0
+Average Critic Loss: 3.5048197998935158
+--- End of Statistics ---
+
+Episode 90: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 3.5575
+
+--- Statistics at Episode 90 ---
+Actor Layer 1 Conv Weights Average: 0.0013999667717143893
+Actor Layer 1 FC Weights Average: 8.406255801673979e-05
+Critic Layer 1 Conv Weights Average: -0.005673735868185759
+Critic Layer 1 FC Weights Average: -0.0009322692058049142
+Average Actor Loss: 0.0
+Average Critic Loss: 3.5574644810395895
+--- End of Statistics ---
+
+Episode 91: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 3.2142
+
+--- Statistics at Episode 91 ---
+Actor Layer 1 Conv Weights Average: 0.0014009452424943447
+Actor Layer 1 FC Weights Average: 8.406361303059384e-05
+Critic Layer 1 Conv Weights Average: -0.005596175789833069
+Critic Layer 1 FC Weights Average: -0.000878496328368783
+Average Actor Loss: 0.0
+Average Critic Loss: 3.2141652476617386
+--- End of Statistics ---
+
+Episode 92: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 3.2653
+
+--- Statistics at Episode 92 ---
+Actor Layer 1 Conv Weights Average: 0.0014035091735422611
+Actor Layer 1 FC Weights Average: 8.40664652059786e-05
+Critic Layer 1 Conv Weights Average: -0.00556406332179904
+Critic Layer 1 FC Weights Average: -0.0008539097034372389
+Average Actor Loss: 0.0
+Average Critic Loss: 3.265316422315101
+--- End of Statistics ---
+
+Episode 93: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 2.9971
+
+--- Statistics at Episode 93 ---
+Actor Layer 1 Conv Weights Average: 0.0014052735641598701
+Actor Layer 1 FC Weights Average: 8.406842971453443e-05
+Critic Layer 1 Conv Weights Average: -0.005689653102308512
+Critic Layer 1 FC Weights Average: -0.0008381035295315087
+Average Actor Loss: 0.0
+Average Critic Loss: 2.99707111219039
+--- End of Statistics ---
+
+Episode 94: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 3.1087
+
+--- Statistics at Episode 94 ---
+Actor Layer 1 Conv Weights Average: 0.0014074500650167465
+Actor Layer 1 FC Weights Average: 8.407084533246234e-05
+Critic Layer 1 Conv Weights Average: -0.005711809266358614
+Critic Layer 1 FC Weights Average: -0.0008279878529720008
+Average Actor Loss: 0.0
+Average Critic Loss: 3.1087179011348445
+--- End of Statistics ---
+
+Episode 95: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 2.6270
+
+--- Statistics at Episode 95 ---
+Actor Layer 1 Conv Weights Average: 0.0014075572835281491
+Actor Layer 1 FC Weights Average: 8.407091081608087e-05
+Critic Layer 1 Conv Weights Average: -0.005647204350680113
+Critic Layer 1 FC Weights Average: -0.000753058004193008
+Average Actor Loss: 0.0
+Average Critic Loss: 2.6270437757505016
+--- End of Statistics ---
+
+Episode 96: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 2.6573
+
+--- Statistics at Episode 96 ---
+Actor Layer 1 Conv Weights Average: 0.0014094478683546185
+Actor Layer 1 FC Weights Average: 8.407301356783137e-05
+Critic Layer 1 Conv Weights Average: -0.005728764925152063
+Critic Layer 1 FC Weights Average: -0.0007398392772302032
+Average Actor Loss: 0.0
+Average Critic Loss: 2.6572721068908165
+--- End of Statistics ---
+
+Episode 97: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 2.4227
+
+--- Statistics at Episode 97 ---
+Actor Layer 1 Conv Weights Average: 0.0014101616106927395
+Actor Layer 1 FC Weights Average: 8.407376299146563e-05
+Critic Layer 1 Conv Weights Average: -0.005692826118320227
+Critic Layer 1 FC Weights Average: -0.0007382269250229001
+Average Actor Loss: 0.0
+Average Critic Loss: 2.422688401066446
+--- End of Statistics ---
+
+Episode 98: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 2.6106
+
+--- Statistics at Episode 98 ---
+Actor Layer 1 Conv Weights Average: 0.001411925652064383
+Actor Layer 1 FC Weights Average: 8.407573477597907e-05
+Critic Layer 1 Conv Weights Average: -0.005750976502895355
+Critic Layer 1 FC Weights Average: -0.0007365492056123912
+Average Actor Loss: 0.0
+Average Critic Loss: 2.610594805056522
+--- End of Statistics ---
+
+Episode 99: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 2.3493
+
+--- Statistics at Episode 99 ---
+Actor Layer 1 Conv Weights Average: 0.0014120336854830384
+Actor Layer 1 FC Weights Average: 8.407581481151283e-05
+Critic Layer 1 Conv Weights Average: -0.005708178039640188
+Critic Layer 1 FC Weights Average: -0.0006736706127412617
+Average Actor Loss: 0.0
+Average Critic Loss: 2.349327269633593
+--- End of Statistics ---
+
+Episode 100: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 2.7270
+
+--- Statistics at Episode 100 ---
+Actor Layer 1 Conv Weights Average: 0.0014139224076643586
+Actor Layer 1 FC Weights Average: 8.407788845943287e-05
+Critic Layer 1 Conv Weights Average: -0.0056832339614629745
+Critic Layer 1 FC Weights Average: -0.0006727793370373547
+Average Actor Loss: 0.0
+Average Critic Loss: 2.726990253580302
+--- End of Statistics ---
+
+Episode 101: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 2.0813
+
+--- Statistics at Episode 101 ---
+Actor Layer 1 Conv Weights Average: 0.0014148514019325376
+Actor Layer 1 FC Weights Average: 8.407890709349886e-05
+Critic Layer 1 Conv Weights Average: -0.005736298393458128
+Critic Layer 1 FC Weights Average: -0.0006570342811755836
+Average Actor Loss: 0.0
+Average Critic Loss: 2.0813484910671534
+--- End of Statistics ---
+
+Episode 102: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 2.1012
+
+--- Statistics at Episode 102 ---
+Actor Layer 1 Conv Weights Average: 0.0014157564146444201
+Actor Layer 1 FC Weights Average: 8.407986751990393e-05
+Critic Layer 1 Conv Weights Average: -0.005715671926736832
+Critic Layer 1 FC Weights Average: -0.0006664092070423067
+Average Actor Loss: 0.0
+Average Critic Loss: 2.1011978960427102
+--- End of Statistics ---
+
+Episode 103: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 2.0074
+
+--- Statistics at Episode 103 ---
+Actor Layer 1 Conv Weights Average: 0.0014164954191073775
+Actor Layer 1 FC Weights Average: 8.408064604736865e-05
+Critic Layer 1 Conv Weights Average: -0.005823910236358643
+Critic Layer 1 FC Weights Average: -0.0006755185313522816
+Average Actor Loss: 0.0
+Average Critic Loss: 2.0073571372933245
+--- End of Statistics ---
+
+Episode 104: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.9559
+
+--- Statistics at Episode 104 ---
+Actor Layer 1 Conv Weights Average: 0.0014172605006024241
+Actor Layer 1 FC Weights Average: 8.408146823057905e-05
+Critic Layer 1 Conv Weights Average: -0.0057795350439846516
+Critic Layer 1 FC Weights Average: -0.0006754447822459042
+Average Actor Loss: 0.0
+Average Critic Loss: 1.955885822349738
+--- End of Statistics ---
+
+Episode 105: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.9004
+
+--- Statistics at Episode 105 ---
+Actor Layer 1 Conv Weights Average: 0.0014171224320307374
+Actor Layer 1 FC Weights Average: 8.408126450376585e-05
+Critic Layer 1 Conv Weights Average: -0.005738675128668547
+Critic Layer 1 FC Weights Average: -0.0005758550832979381
+Average Actor Loss: 0.0
+Average Critic Loss: 1.9003877955409838
+--- End of Statistics ---
+
+Episode 106: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 3.3061
+
+--- Statistics at Episode 106 ---
+Actor Layer 1 Conv Weights Average: 0.0014183024177327752
+Actor Layer 1 FC Weights Average: 8.408250869251788e-05
+Critic Layer 1 Conv Weights Average: -0.0058813393115997314
+Critic Layer 1 FC Weights Average: -0.0006063380860723555
+Average Actor Loss: 0.0
+Average Critic Loss: 3.3061403469670116
+--- End of Statistics ---
+
+Episode 107: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.7978
+
+--- Statistics at Episode 107 ---
+Actor Layer 1 Conv Weights Average: 0.0014180364087224007
+Actor Layer 1 FC Weights Average: 8.408218855038285e-05
+Critic Layer 1 Conv Weights Average: -0.005801571533083916
+Critic Layer 1 FC Weights Average: -0.0005388990393839777
+Average Actor Loss: 0.0
+Average Critic Loss: 1.7978246778012428
+--- End of Statistics ---
+
+Episode 108: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.6718
+
+--- Statistics at Episode 108 ---
+Actor Layer 1 Conv Weights Average: 0.0014190870570018888
+Actor Layer 1 FC Weights Average: 8.408330904785544e-05
+Critic Layer 1 Conv Weights Average: -0.005799006205052137
+Critic Layer 1 FC Weights Average: -0.0005577982519753277
+Average Actor Loss: 0.0
+Average Critic Loss: 1.6717732309596613
+--- End of Statistics ---
+
+Episode 109: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.7310
+
+--- Statistics at Episode 109 ---
+Actor Layer 1 Conv Weights Average: 0.0014195494586601853
+Actor Layer 1 FC Weights Average: 8.408377470914274e-05
+Critic Layer 1 Conv Weights Average: -0.005798207595944405
+Critic Layer 1 FC Weights Average: -0.0005698510794900358
+Average Actor Loss: 0.0
+Average Critic Loss: 1.7310470290818838
+--- End of Statistics ---
+
+Episode 110: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.6914
+
+--- Statistics at Episode 110 ---
+Actor Layer 1 Conv Weights Average: 0.0014196570264175534
+Actor Layer 1 FC Weights Average: 8.408384746871889e-05
+Critic Layer 1 Conv Weights Average: -0.005810476839542389
+Critic Layer 1 FC Weights Average: -0.0005463886191137135
+Average Actor Loss: 0.0
+Average Critic Loss: 1.6914057542684569
+--- End of Statistics ---
+
+Episode 111: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 2.6008
+
+--- Statistics at Episode 111 ---
+Actor Layer 1 Conv Weights Average: 0.0014203122118487954
+Actor Layer 1 FC Weights Average: 8.408449502894655e-05
+Critic Layer 1 Conv Weights Average: -0.005846112500876188
+Critic Layer 1 FC Weights Average: -0.0005569867789745331
+Average Actor Loss: 0.0
+Average Critic Loss: 2.6007586770084896
+--- End of Statistics ---
+
+Episode 112: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.7078
+
+--- Statistics at Episode 112 ---
+Actor Layer 1 Conv Weights Average: 0.0014195166295394301
+Actor Layer 1 FC Weights Average: 8.408357098232955e-05
+Critic Layer 1 Conv Weights Average: -0.005668992176651955
+Critic Layer 1 FC Weights Average: -0.000490393431391567
+Average Actor Loss: 0.0
+Average Critic Loss: 1.7078495827510802
+--- End of Statistics ---
+
+Episode 113: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.5721
+
+--- Statistics at Episode 113 ---
+Actor Layer 1 Conv Weights Average: 0.0014206846244633198
+Actor Layer 1 FC Weights Average: 8.408480061916634e-05
+Critic Layer 1 Conv Weights Average: -0.005828201770782471
+Critic Layer 1 FC Weights Average: -0.0005076428060419858
+Average Actor Loss: 0.0
+Average Critic Loss: 1.572051405296577
+--- End of Statistics ---
+
+Episode 114: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.6042
+
+--- Statistics at Episode 114 ---
+Actor Layer 1 Conv Weights Average: 0.0014207991771399975
+Actor Layer 1 FC Weights Average: 8.408484427491203e-05
+Critic Layer 1 Conv Weights Average: -0.005832304712384939
+Critic Layer 1 FC Weights Average: -0.0005016530631110072
+Average Actor Loss: 0.0
+Average Critic Loss: 1.6041670095783385
+--- End of Statistics ---
+
+Episode 115: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.6057
+
+--- Statistics at Episode 115 ---
+Actor Layer 1 Conv Weights Average: 0.0014208569191396236
+Actor Layer 1 FC Weights Average: 8.408482244703919e-05
+Critic Layer 1 Conv Weights Average: -0.0058103823103010654
+Critic Layer 1 FC Weights Average: -0.0004922254593111575
+Average Actor Loss: 0.0
+Average Critic Loss: 1.6056651292934945
+--- End of Statistics ---
+
+Episode 116: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.6330
+
+--- Statistics at Episode 116 ---
+Actor Layer 1 Conv Weights Average: 0.0014209848595783114
+Actor Layer 1 FC Weights Average: 8.408492431044579e-05
+Critic Layer 1 Conv Weights Average: -0.0058003817684948444
+Critic Layer 1 FC Weights Average: -0.00047805835492908955
+Average Actor Loss: 0.0
+Average Critic Loss: 1.6329528966235098
+--- End of Statistics ---
+
+Episode 117: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.6008
+
+--- Statistics at Episode 117 ---
+Actor Layer 1 Conv Weights Average: 0.0014209701912477612
+Actor Layer 1 FC Weights Average: 8.408482244703919e-05
+Critic Layer 1 Conv Weights Average: -0.005817147437483072
+Critic Layer 1 FC Weights Average: -0.00044649242772720754
+Average Actor Loss: 0.0
+Average Critic Loss: 1.6008216449619495
+--- End of Statistics ---
+
+Episode 118: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.6124
+
+--- Statistics at Episode 118 ---
+Actor Layer 1 Conv Weights Average: 0.0014209471410140395
+Actor Layer 1 FC Weights Average: 8.40847278595902e-05
+Critic Layer 1 Conv Weights Average: -0.005809463560581207
+Critic Layer 1 FC Weights Average: -0.0004506525001488626
+Average Actor Loss: 0.0
+Average Critic Loss: 1.6124191198128361
+--- End of Statistics ---
+
+Episode 119: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.6051
+
+--- Statistics at Episode 119 ---
+Actor Layer 1 Conv Weights Average: 0.0014210286317393184
+Actor Layer 1 FC Weights Average: 8.408474968746305e-05
+Critic Layer 1 Conv Weights Average: -0.0058178468607366085
+Critic Layer 1 FC Weights Average: -0.00043288126471452415
+Average Actor Loss: 0.0
+Average Critic Loss: 1.6050755345755252
+--- End of Statistics ---
+
+Episode 120: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.6038
+
+--- Statistics at Episode 120 ---
+Actor Layer 1 Conv Weights Average: 0.0014208847424015403
+Actor Layer 1 FC Weights Average: 8.4084524132777e-05
+Critic Layer 1 Conv Weights Average: -0.005857940763235092
+Critic Layer 1 FC Weights Average: -0.00040717015508562326
+Average Actor Loss: 0.0
+Average Critic Loss: 1.603795743571803
+--- End of Statistics ---
+
+Episode 121: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.5489
+
+--- Statistics at Episode 121 ---
+Actor Layer 1 Conv Weights Average: 0.0014211791567504406
+Actor Layer 1 FC Weights Average: 8.408477151533589e-05
+Critic Layer 1 Conv Weights Average: -0.0057955551892519
+Critic Layer 1 FC Weights Average: -0.00042315994505770504
+Average Actor Loss: 0.0
+Average Critic Loss: 1.54887510376968
+--- End of Statistics ---
+
+Episode 122: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.5399
+
+--- Statistics at Episode 122 ---
+Actor Layer 1 Conv Weights Average: 0.0014211651869118214
+Actor Layer 1 FC Weights Average: 8.408469147980213e-05
+Critic Layer 1 Conv Weights Average: -0.005851284135133028
+Critic Layer 1 FC Weights Average: -0.000405795726692304
+Average Actor Loss: 0.0
+Average Critic Loss: 1.5399467971176284
+--- End of Statistics ---
+
+Episode 123: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 6.8485
+
+--- Statistics at Episode 123 ---
+Actor Layer 1 Conv Weights Average: 0.0014212093083187938
+Actor Layer 1 FC Weights Average: 8.408464782405645e-05
+Critic Layer 1 Conv Weights Average: -0.0060882288962602615
+Critic Layer 1 FC Weights Average: -0.00038205363671295345
+Average Actor Loss: 0.0
+Average Critic Loss: 6.848494820849767
+--- End of Statistics ---
+
+Episode 124: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.6741
+
+--- Statistics at Episode 124 ---
+Actor Layer 1 Conv Weights Average: 0.0014214742695912719
+Actor Layer 1 FC Weights Average: 8.408486610278487e-05
+Critic Layer 1 Conv Weights Average: -0.005832746624946594
+Critic Layer 1 FC Weights Average: -0.00028450178797356784
+Average Actor Loss: 0.0
+Average Critic Loss: 1.6740937217867204
+--- End of Statistics ---
+
+Episode 125: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.6112
+
+--- Statistics at Episode 125 ---
+Actor Layer 1 Conv Weights Average: 0.0014221944147720933
+Actor Layer 1 FC Weights Average: 8.408561552641913e-05
+Critic Layer 1 Conv Weights Average: -0.005821894388645887
+Critic Layer 1 FC Weights Average: -0.0003045156190637499
+Average Actor Loss: 0.0
+Average Critic Loss: 1.6111797678957036
+--- End of Statistics ---
+
+Episode 126: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.4385
+
+--- Statistics at Episode 126 ---
+Actor Layer 1 Conv Weights Average: 0.001422493252903223
+Actor Layer 1 FC Weights Average: 8.40859065647237e-05
+Critic Layer 1 Conv Weights Average: -0.005711420904844999
+Critic Layer 1 FC Weights Average: -0.0002997739939019084
+Average Actor Loss: 0.0
+Average Critic Loss: 1.438517027219443
+--- End of Statistics ---
+
+Episode 127: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.8240
+
+--- Statistics at Episode 127 ---
+Actor Layer 1 Conv Weights Average: 0.0014226348139345646
+Actor Layer 1 FC Weights Average: 8.40860084281303e-05
+Critic Layer 1 Conv Weights Average: -0.005877681076526642
+Critic Layer 1 FC Weights Average: -0.0003097965964116156
+Average Actor Loss: 0.0
+Average Critic Loss: 1.8239579285883833
+--- End of Statistics ---
+
+Episode 128: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.4480
+
+--- Statistics at Episode 128 ---
+Actor Layer 1 Conv Weights Average: 0.0014227557694539428
+Actor Layer 1 FC Weights Average: 8.408612484345213e-05
+Critic Layer 1 Conv Weights Average: -0.005763010587543249
+Critic Layer 1 FC Weights Average: -0.0003123705682810396
+Average Actor Loss: 0.0
+Average Critic Loss: 1.448032346725455
+--- End of Statistics ---
+
+Episode 129: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.9532
+
+--- Statistics at Episode 129 ---
+Actor Layer 1 Conv Weights Average: 0.0014228940708562732
+Actor Layer 1 FC Weights Average: 8.408624125877395e-05
+Critic Layer 1 Conv Weights Average: -0.005896732211112976
+Critic Layer 1 FC Weights Average: -0.0003315513313282281
+Average Actor Loss: 0.0
+Average Critic Loss: 1.9531867248591017
+--- End of Statistics ---
+
+Episode 130: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.4186
+
+--- Statistics at Episode 130 ---
+Actor Layer 1 Conv Weights Average: 0.0014229640364646912
+Actor Layer 1 FC Weights Average: 8.40863140183501e-05
+Critic Layer 1 Conv Weights Average: -0.00573516683652997
+Critic Layer 1 FC Weights Average: -0.00029092078329995275
+Average Actor Loss: 0.0
+Average Critic Loss: 1.4186038218767918
+--- End of Statistics ---
+
+Episode 131: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.9354
+
+--- Statistics at Episode 131 ---
+Actor Layer 1 Conv Weights Average: 0.0014231303939595819
+Actor Layer 1 FC Weights Average: 8.408649591729045e-05
+Critic Layer 1 Conv Weights Average: -0.00593138812109828
+Critic Layer 1 FC Weights Average: -0.00030751837766729295
+Average Actor Loss: 0.0
+Average Critic Loss: 1.9354089118127509
+--- End of Statistics ---
+
+Episode 132: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.4105
+
+--- Statistics at Episode 132 ---
+Actor Layer 1 Conv Weights Average: 0.00142286519985646
+Actor Layer 1 FC Weights Average: 8.408617577515543e-05
+Critic Layer 1 Conv Weights Average: -0.0057906159199774265
+Critic Layer 1 FC Weights Average: -0.0002515491796657443
+Average Actor Loss: 0.0
+Average Critic Loss: 1.4104655102339503
+--- End of Statistics ---
+
+Episode 133: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.9078
+
+--- Statistics at Episode 133 ---
+Actor Layer 1 Conv Weights Average: 0.0014228979125618935
+Actor Layer 1 FC Weights Average: 8.408621943090111e-05
+Critic Layer 1 Conv Weights Average: -0.005963331554085016
+Critic Layer 1 FC Weights Average: -0.0002979455457534641
+Average Actor Loss: 0.0
+Average Critic Loss: 1.9077941065682362
+--- End of Statistics ---
+
+Episode 134: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.3513
+
+--- Statistics at Episode 134 ---
+Actor Layer 1 Conv Weights Average: 0.00142269569914788
+Actor Layer 1 FC Weights Average: 8.408597932429984e-05
+Critic Layer 1 Conv Weights Average: -0.005804379936307669
+Critic Layer 1 FC Weights Average: -0.00022717786487191916
+Average Actor Loss: 0.0
+Average Critic Loss: 1.3513059340395481
+--- End of Statistics ---
+
+Episode 135: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.8653
+
+--- Statistics at Episode 135 ---
+Actor Layer 1 Conv Weights Average: 0.0014228717191144824
+Actor Layer 1 FC Weights Average: 8.408619032707065e-05
+Critic Layer 1 Conv Weights Average: -0.0059791915118694305
+Critic Layer 1 FC Weights Average: -0.0002687329542823136
+Average Actor Loss: 0.0
+Average Critic Loss: 1.8652629046874918
+--- End of Statistics ---
+
+Episode 136: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.2974
+
+--- Statistics at Episode 136 ---
+Actor Layer 1 Conv Weights Average: 0.001422725967131555
+Actor Layer 1 FC Weights Average: 8.408604480791837e-05
+Critic Layer 1 Conv Weights Average: -0.005788726732134819
+Critic Layer 1 FC Weights Average: -0.0002046070876531303
+Average Actor Loss: 0.0
+Average Critic Loss: 1.2973894154054937
+--- End of Statistics ---
+
+Episode 137: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.7504
+
+--- Statistics at Episode 137 ---
+Actor Layer 1 Conv Weights Average: 0.0014229483203962445
+Actor Layer 1 FC Weights Average: 8.408630674239248e-05
+Critic Layer 1 Conv Weights Average: -0.005950331222265959
+Critic Layer 1 FC Weights Average: -0.0002444088167976588
+Average Actor Loss: 0.0
+Average Critic Loss: 1.7504446715902604
+--- End of Statistics ---
+
+Episode 138: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.2348
+
+--- Statistics at Episode 138 ---
+Actor Layer 1 Conv Weights Average: 0.0014225883642211556
+Actor Layer 1 FC Weights Average: 8.408589201280847e-05
+Critic Layer 1 Conv Weights Average: -0.005803654436022043
+Critic Layer 1 FC Weights Average: -0.0001684117451077327
+Average Actor Loss: 0.0
+Average Critic Loss: 1.2347652906292197
+--- End of Statistics ---
+
+Episode 139: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.6436
+
+--- Statistics at Episode 139 ---
+Actor Layer 1 Conv Weights Average: 0.001422886154614389
+Actor Layer 1 FC Weights Average: 8.408624125877395e-05
+Critic Layer 1 Conv Weights Average: -0.005972070153802633
+Critic Layer 1 FC Weights Average: -0.00021115376148372889
+Average Actor Loss: 0.0
+Average Critic Loss: 1.643588098440148
+--- End of Statistics ---
+
+Episode 140: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.1894
+
+--- Statistics at Episode 140 ---
+Actor Layer 1 Conv Weights Average: 0.0014228172367438674
+Actor Layer 1 FC Weights Average: 8.408617577515543e-05
+Critic Layer 1 Conv Weights Average: -0.005825796630233526
+Critic Layer 1 FC Weights Average: -0.00014007302524987608
+Average Actor Loss: 0.0
+Average Critic Loss: 1.189411894108666
+--- End of Statistics ---
+
+Episode 141: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.5901
+
+--- Statistics at Episode 141 ---
+Actor Layer 1 Conv Weights Average: 0.0014231279492378235
+Actor Layer 1 FC Weights Average: 8.408654684899375e-05
+Critic Layer 1 Conv Weights Average: -0.005953485146164894
+Critic Layer 1 FC Weights Average: -0.0001878376497188583
+Average Actor Loss: 0.0
+Average Critic Loss: 1.5901499099028538
+--- End of Statistics ---
+
+Episode 142: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.1513
+
+--- Statistics at Episode 142 ---
+Actor Layer 1 Conv Weights Average: 0.001423001755028963
+Actor Layer 1 FC Weights Average: 8.408642315771431e-05
+Critic Layer 1 Conv Weights Average: -0.005796763580292463
+Critic Layer 1 FC Weights Average: -0.00012659387721214443
+Average Actor Loss: 0.0
+Average Critic Loss: 1.1513365648550968
+--- End of Statistics ---
+
+Episode 143: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.4858
+
+--- Statistics at Episode 143 ---
+Actor Layer 1 Conv Weights Average: 0.0014232965186238289
+Actor Layer 1 FC Weights Average: 8.408674329984933e-05
+Critic Layer 1 Conv Weights Average: -0.005945630371570587
+Critic Layer 1 FC Weights Average: -0.00017492665210738778
+Average Actor Loss: 0.0
+Average Critic Loss: 1.4858239277438714
+--- End of Statistics ---
+
+Episode 144: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.0912
+
+--- Statistics at Episode 144 ---
+Actor Layer 1 Conv Weights Average: 0.0014231415698304772
+Actor Layer 1 FC Weights Average: 8.408659778069705e-05
+Critic Layer 1 Conv Weights Average: -0.005852671805769205
+Critic Layer 1 FC Weights Average: -0.00011483859998406842
+Average Actor Loss: 0.0
+Average Critic Loss: 1.0912226615524034
+--- End of Statistics ---
+
+Episode 145: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.3793
+
+--- Statistics at Episode 145 ---
+Actor Layer 1 Conv Weights Average: 0.001423273584805429
+Actor Layer 1 FC Weights Average: 8.408677240367979e-05
+Critic Layer 1 Conv Weights Average: -0.005930545274168253
+Critic Layer 1 FC Weights Average: -0.00015417799295391887
+Average Actor Loss: 0.0
+Average Critic Loss: 1.3793292512429578
+--- End of Statistics ---
+
+Episode 146: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.0286
+
+--- Statistics at Episode 146 ---
+Actor Layer 1 Conv Weights Average: 0.0014232400571927428
+Actor Layer 1 FC Weights Average: 8.408674329984933e-05
+Critic Layer 1 Conv Weights Average: -0.0058595589362084866
+Critic Layer 1 FC Weights Average: -0.00011020026431651786
+Average Actor Loss: 0.0
+Average Critic Loss: 1.028644682064331
+--- End of Statistics ---
+
+Episode 147: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.3031
+
+--- Statistics at Episode 147 ---
+Actor Layer 1 Conv Weights Average: 0.0014234891859814525
+Actor Layer 1 FC Weights Average: 8.408706344198436e-05
+Critic Layer 1 Conv Weights Average: -0.005906954873353243
+Critic Layer 1 FC Weights Average: -0.00014561761054210365
+Average Actor Loss: 0.0
+Average Critic Loss: 1.3031193919321575
+--- End of Statistics ---
+
+Episode 148: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.0644
+
+--- Statistics at Episode 148 ---
+Actor Layer 1 Conv Weights Average: 0.001423080451786518
+Actor Layer 1 FC Weights Average: 8.408656867686659e-05
+Critic Layer 1 Conv Weights Average: -0.005792620126157999
+Critic Layer 1 FC Weights Average: -5.1299990445841104e-05
+Average Actor Loss: 0.0
+Average Critic Loss: 1.0643725089498364
+--- End of Statistics ---
+
+Episode 149: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.3546
+
+--- Statistics at Episode 149 ---
+Actor Layer 1 Conv Weights Average: 0.0014235824346542358
+Actor Layer 1 FC Weights Average: 8.408715075347573e-05
+Critic Layer 1 Conv Weights Average: -0.0059889815747737885
+Critic Layer 1 FC Weights Average: -0.0001355616404907778
+Average Actor Loss: 0.0
+Average Critic Loss: 1.3545967762979718
+--- End of Statistics ---
+
+Episode 150: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.9989
+
+--- Statistics at Episode 150 ---
+Actor Layer 1 Conv Weights Average: 0.001423454494215548
+Actor Layer 1 FC Weights Average: 8.408702706219628e-05
+Critic Layer 1 Conv Weights Average: -0.005822668317705393
+Critic Layer 1 FC Weights Average: -5.698017048416659e-05
+Average Actor Loss: 0.0
+Average Critic Loss: 0.9988940673876978
+--- End of Statistics ---
+
+Episode 151: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.0714
+
+--- Statistics at Episode 151 ---
+Actor Layer 1 Conv Weights Average: 0.001423811074346304
+Actor Layer 1 FC Weights Average: 8.408744906773791e-05
+Critic Layer 1 Conv Weights Average: -0.005904775578528643
+Critic Layer 1 FC Weights Average: -0.00012430414790287614
+Average Actor Loss: 0.0
+Average Critic Loss: 1.071441433330807
+--- End of Statistics ---
+
+Episode 152: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.9648
+
+--- Statistics at Episode 152 ---
+Actor Layer 1 Conv Weights Average: 0.0014233211986720562
+Actor Layer 1 FC Weights Average: 8.408692519878969e-05
+Critic Layer 1 Conv Weights Average: -0.005769126582890749
+Critic Layer 1 FC Weights Average: -3.87610234611202e-05
+Average Actor Loss: 0.0
+Average Critic Loss: 0.964753375572694
+--- End of Statistics ---
+
+Episode 153: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.2053
+
+--- Statistics at Episode 153 ---
+Actor Layer 1 Conv Weights Average: 0.001423829235136509
+Actor Layer 1 FC Weights Average: 8.408751455135643e-05
+Critic Layer 1 Conv Weights Average: -0.0059478082694113255
+Critic Layer 1 FC Weights Average: -0.00011199223808944225
+Average Actor Loss: 0.0
+Average Critic Loss: 1.2052987213676256
+--- End of Statistics ---
+
+Episode 154: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.9052
+
+--- Statistics at Episode 154 ---
+Actor Layer 1 Conv Weights Average: 0.0014237185241654515
+Actor Layer 1 FC Weights Average: 8.408738358411938e-05
+Critic Layer 1 Conv Weights Average: -0.005816853139549494
+Critic Layer 1 FC Weights Average: -3.972957711084746e-05
+Average Actor Loss: 0.0
+Average Critic Loss: 0.9052495755703481
+--- End of Statistics ---
+
+Episode 155: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.8211
+
+--- Statistics at Episode 155 ---
+Actor Layer 1 Conv Weights Average: 0.0014238819712772965
+Actor Layer 1 FC Weights Average: 8.408758003497496e-05
+Critic Layer 1 Conv Weights Average: -0.005823561456054449
+Critic Layer 1 FC Weights Average: -8.822224481264129e-05
+Average Actor Loss: 0.0
+Average Critic Loss: 0.8211310010915656
+--- End of Statistics ---
+
+Episode 156: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.8173
+
+--- Statistics at Episode 156 ---
+Actor Layer 1 Conv Weights Average: 0.0014239647425711155
+Actor Layer 1 FC Weights Average: 8.40876527945511e-05
+Critic Layer 1 Conv Weights Average: -0.0058717187494039536
+Critic Layer 1 FC Weights Average: -0.00010712986113503575
+Average Actor Loss: 0.0
+Average Critic Loss: 0.8172673477218174
+--- End of Statistics ---
+
+Episode 157: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.7966
+
+--- Statistics at Episode 157 ---
+Actor Layer 1 Conv Weights Average: 0.0014240137534216046
+Actor Layer 1 FC Weights Average: 8.408771100221202e-05
+Critic Layer 1 Conv Weights Average: -0.005845293868333101
+Critic Layer 1 FC Weights Average: -0.00011349391570547596
+Average Actor Loss: 0.0
+Average Critic Loss: 0.796567466421582
+--- End of Statistics ---
+
+Episode 158: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.3991
+
+--- Statistics at Episode 158 ---
+Actor Layer 1 Conv Weights Average: 0.0014241827884688973
+Actor Layer 1 FC Weights Average: 8.408790017710999e-05
+Critic Layer 1 Conv Weights Average: -0.005936141591519117
+Critic Layer 1 FC Weights Average: -0.00011392019951017573
+Average Actor Loss: 0.0
+Average Critic Loss: 1.3991044379358202
+--- End of Statistics ---
+
+Episode 159: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.8357
+
+--- Statistics at Episode 159 ---
+Actor Layer 1 Conv Weights Average: 0.0014242237666621804
+Actor Layer 1 FC Weights Average: 8.40879583847709e-05
+Critic Layer 1 Conv Weights Average: -0.005856849253177643
+Critic Layer 1 FC Weights Average: -5.566890104091726e-05
+Average Actor Loss: 0.0
+Average Critic Loss: 0.8356847545690564
+--- End of Statistics ---
+
+Episode 160: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.7545
+
+--- Statistics at Episode 160 ---
+Actor Layer 1 Conv Weights Average: 0.0014243670739233494
+Actor Layer 1 FC Weights Average: 8.408814028371125e-05
+Critic Layer 1 Conv Weights Average: -0.005855959374457598
+Critic Layer 1 FC Weights Average: -0.00011347512190695852
+Average Actor Loss: 0.0
+Average Critic Loss: 0.7544867752201702
+--- End of Statistics ---
+
+Episode 161: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.7973
+
+--- Statistics at Episode 161 ---
+Actor Layer 1 Conv Weights Average: 0.0014246286591514945
+Actor Layer 1 FC Weights Average: 8.40884167701006e-05
+Critic Layer 1 Conv Weights Average: -0.00586311100050807
+Critic Layer 1 FC Weights Average: -0.00014268951781559736
+Average Actor Loss: 0.0
+Average Critic Loss: 0.7973358326329392
+--- End of Statistics ---
+
+Episode 162: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.7616
+
+--- Statistics at Episode 162 ---
+Actor Layer 1 Conv Weights Average: 0.0014242735924199224
+Actor Layer 1 FC Weights Average: 8.408808935200796e-05
+Critic Layer 1 Conv Weights Average: -0.005872707813978195
+Critic Layer 1 FC Weights Average: -6.280723755480722e-05
+Average Actor Loss: 0.0
+Average Critic Loss: 0.7615856558386328
+--- End of Statistics ---
+
+Episode 163: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.2739
+
+--- Statistics at Episode 163 ---
+Actor Layer 1 Conv Weights Average: 0.0014248378574848175
+Actor Layer 1 FC Weights Average: 8.408875874010846e-05
+Critic Layer 1 Conv Weights Average: -0.005949206184595823
+Critic Layer 1 FC Weights Average: -0.00013989304716233164
+Average Actor Loss: 0.0
+Average Critic Loss: 1.2738886768290576
+--- End of Statistics ---
+
+Episode 164: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.7875
+
+--- Statistics at Episode 164 ---
+Actor Layer 1 Conv Weights Average: 0.0014246056089177728
+Actor Layer 1 FC Weights Average: 8.408859866904095e-05
+Critic Layer 1 Conv Weights Average: -0.005778551567345858
+Critic Layer 1 FC Weights Average: -8.019668894121423e-05
+Average Actor Loss: 0.0
+Average Critic Loss: 0.7874887468817979
+--- End of Statistics ---
+
+Episode 165: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.7091
+
+--- Statistics at Episode 165 ---
+Actor Layer 1 Conv Weights Average: 0.001424776972271502
+Actor Layer 1 FC Weights Average: 8.408883877564222e-05
+Critic Layer 1 Conv Weights Average: -0.00587563356384635
+Critic Layer 1 FC Weights Average: -0.0001222129794768989
+Average Actor Loss: 0.0
+Average Critic Loss: 0.7090913398311348
+--- End of Statistics ---
+
+Episode 166: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.9730
+
+--- Statistics at Episode 166 ---
+Actor Layer 1 Conv Weights Average: 0.0014251739485189319
+Actor Layer 1 FC Weights Average: 8.408930443692952e-05
+Critic Layer 1 Conv Weights Average: -0.0058556850999593735
+Critic Layer 1 FC Weights Average: -0.0001390813704347238
+Average Actor Loss: 0.0
+Average Critic Loss: 0.9729768598557824
+--- End of Statistics ---
+
+Episode 167: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.7650
+
+--- Statistics at Episode 167 ---
+Actor Layer 1 Conv Weights Average: 0.001425290945917368
+Actor Layer 1 FC Weights Average: 8.408948633586988e-05
+Critic Layer 1 Conv Weights Average: -0.0058537740260362625
+Critic Layer 1 FC Weights Average: -7.604168058605865e-05
+Average Actor Loss: 0.0
+Average Critic Loss: 0.7650283870421324
+--- End of Statistics ---
+
+Episode 168: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6996
+
+--- Statistics at Episode 168 ---
+Actor Layer 1 Conv Weights Average: 0.0014256559079512954
+Actor Layer 1 FC Weights Average: 8.408999565290287e-05
+Critic Layer 1 Conv Weights Average: -0.005895982030779123
+Critic Layer 1 FC Weights Average: -0.0001554287737235427
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6995887144820971
+--- End of Statistics ---
+
+Episode 169: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6789
+
+--- Statistics at Episode 169 ---
+Actor Layer 1 Conv Weights Average: 0.001425689086318016
+Actor Layer 1 FC Weights Average: 8.409010479226708e-05
+Critic Layer 1 Conv Weights Average: -0.0058544413186609745
+Critic Layer 1 FC Weights Average: -0.00010626823495840654
+Average Actor Loss: 0.0
+Average Critic Loss: 0.678866757187103
+--- End of Statistics ---
+
+Episode 170: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6951
+
+--- Statistics at Episode 170 ---
+Actor Layer 1 Conv Weights Average: 0.0014258339069783688
+Actor Layer 1 FC Weights Average: 8.409034489886835e-05
+Critic Layer 1 Conv Weights Average: -0.005845166277140379
+Critic Layer 1 FC Weights Average: -7.029851985862479e-05
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6951067297927647
+--- End of Statistics ---
+
+Episode 171: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6946
+
+--- Statistics at Episode 171 ---
+Actor Layer 1 Conv Weights Average: 0.0014260479947552085
+Actor Layer 1 FC Weights Average: 8.409066504100338e-05
+Critic Layer 1 Conv Weights Average: -0.005858952179551125
+Critic Layer 1 FC Weights Average: -0.00010150095477001742
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6946377829271855
+--- End of Statistics ---
+
+Episode 172: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.7188
+
+--- Statistics at Episode 172 ---
+Actor Layer 1 Conv Weights Average: 0.0014261631295084953
+Actor Layer 1 FC Weights Average: 8.409091242356226e-05
+Critic Layer 1 Conv Weights Average: -0.005871598143130541
+Critic Layer 1 FC Weights Average: -8.757681644055992e-05
+Average Actor Loss: 0.0
+Average Critic Loss: 0.7187921241066882
+--- End of Statistics ---
+
+Episode 173: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6741
+
+--- Statistics at Episode 173 ---
+Actor Layer 1 Conv Weights Average: 0.0014262106269598007
+Actor Layer 1 FC Weights Average: 8.409107977058738e-05
+Critic Layer 1 Conv Weights Average: -0.0058370307087898254
+Critic Layer 1 FC Weights Average: -9.714962652651593e-05
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6740758155709308
+--- End of Statistics ---
+
+Episode 174: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.6546
+
+--- Statistics at Episode 174 ---
+Actor Layer 1 Conv Weights Average: 0.0014265142381191254
+Actor Layer 1 FC Weights Average: 8.409153087995946e-05
+Critic Layer 1 Conv Weights Average: -0.005961957853287458
+Critic Layer 1 FC Weights Average: -0.00015790722682140768
+Average Actor Loss: 0.0
+Average Critic Loss: 1.6545588018194732
+--- End of Statistics ---
+
+Episode 175: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6966
+
+--- Statistics at Episode 175 ---
+Actor Layer 1 Conv Weights Average: 0.0014264443889260292
+Actor Layer 1 FC Weights Average: 8.409159636357799e-05
+Critic Layer 1 Conv Weights Average: -0.005825656931847334
+Critic Layer 1 FC Weights Average: -6.758199742762372e-05
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6966369146641199
+--- End of Statistics ---
+
+Episode 176: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6472
+
+--- Statistics at Episode 176 ---
+Actor Layer 1 Conv Weights Average: 0.0014265569625422359
+Actor Layer 1 FC Weights Average: 8.409187284996733e-05
+Critic Layer 1 Conv Weights Average: -0.005909856408834457
+Critic Layer 1 FC Weights Average: -0.00011825330147985369
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6471792510765414
+--- End of Statistics ---
+
+Episode 177: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6554
+
+--- Statistics at Episode 177 ---
+Actor Layer 1 Conv Weights Average: 0.0014267925871536136
+Actor Layer 1 FC Weights Average: 8.409225119976327e-05
+Critic Layer 1 Conv Weights Average: -0.005898936185985804
+Critic Layer 1 FC Weights Average: -0.00011275960423517972
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6554416053708956
+--- End of Statistics ---
+
+Episode 178: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6461
+
+--- Statistics at Episode 178 ---
+Actor Layer 1 Conv Weights Average: 0.0014269519597291946
+Actor Layer 1 FC Weights Average: 8.409254951402545e-05
+Critic Layer 1 Conv Weights Average: -0.005846829619258642
+Critic Layer 1 FC Weights Average: -0.00012554303975775838
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6460687897764579
+--- End of Statistics ---
+
+Episode 179: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 1.4170
+
+--- Statistics at Episode 179 ---
+Actor Layer 1 Conv Weights Average: 0.0014271511463448405
+Actor Layer 1 FC Weights Average: 8.40928842080757e-05
+Critic Layer 1 Conv Weights Average: -0.006006427574902773
+Critic Layer 1 FC Weights Average: -0.00014772985014133155
+Average Actor Loss: 0.0
+Average Critic Loss: 1.4169593258143314
+--- End of Statistics ---
+
+Episode 180: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6646
+
+--- Statistics at Episode 180 ---
+Actor Layer 1 Conv Weights Average: 0.0014274484710767865
+Actor Layer 1 FC Weights Average: 8.409334986936301e-05
+Critic Layer 1 Conv Weights Average: -0.005878705531358719
+Critic Layer 1 FC Weights Average: -9.822388528846204e-05
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6646249600576618
+--- End of Statistics ---
+
+Episode 181: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6392
+
+--- Statistics at Episode 181 ---
+Actor Layer 1 Conv Weights Average: 0.0014273421838879585
+Actor Layer 1 FC Weights Average: 8.409341535298154e-05
+Critic Layer 1 Conv Weights Average: -0.005930230021476746
+Critic Layer 1 FC Weights Average: -0.00014109838230069727
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6392216548718443
+--- End of Statistics ---
+
+Episode 182: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.7401
+
+--- Statistics at Episode 182 ---
+Actor Layer 1 Conv Weights Average: 0.0014275979483500123
+Actor Layer 1 FC Weights Average: 8.409383735852316e-05
+Critic Layer 1 Conv Weights Average: -0.005888538900762796
+Critic Layer 1 FC Weights Average: -0.00014905592252034694
+Average Actor Loss: 0.0
+Average Critic Loss: 0.7400715446167748
+--- End of Statistics ---
+
+Episode 183: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6348
+
+--- Statistics at Episode 183 ---
+Actor Layer 1 Conv Weights Average: 0.0014278469607234001
+Actor Layer 1 FC Weights Average: 8.409423753619194e-05
+Critic Layer 1 Conv Weights Average: -0.00592271750792861
+Critic Layer 1 FC Weights Average: -0.00013686846068594605
+Average Actor Loss: 0.0
+Average Critic Loss: 0.634763070840325
+--- End of Statistics ---
+
+Episode 184: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6626
+
+--- Statistics at Episode 184 ---
+Actor Layer 1 Conv Weights Average: 0.0014279020251706243
+Actor Layer 1 FC Weights Average: 8.40944703668356e-05
+Critic Layer 1 Conv Weights Average: -0.005956023931503296
+Critic Layer 1 FC Weights Average: -0.00016954689635895193
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6625696131342039
+--- End of Statistics ---
+
+Episode 185: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6549
+
+--- Statistics at Episode 185 ---
+Actor Layer 1 Conv Weights Average: 0.0014280559262260795
+Actor Layer 1 FC Weights Average: 8.4094783233013e-05
+Critic Layer 1 Conv Weights Average: -0.005936510395258665
+Critic Layer 1 FC Weights Average: -0.00017864331312011927
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6549260917159737
+--- End of Statistics ---
+
+Episode 186: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6757
+
+--- Statistics at Episode 186 ---
+Actor Layer 1 Conv Weights Average: 0.001428167219273746
+Actor Layer 1 FC Weights Average: 8.409506699535996e-05
+Critic Layer 1 Conv Weights Average: -0.005906884092837572
+Critic Layer 1 FC Weights Average: -0.00015930476365610957
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6756781633994476
+--- End of Statistics ---
+
+Episode 187: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6444
+
+--- Statistics at Episode 187 ---
+Actor Layer 1 Conv Weights Average: 0.001428252668119967
+Actor Layer 1 FC Weights Average: 8.409532165387645e-05
+Critic Layer 1 Conv Weights Average: -0.005898039322346449
+Critic Layer 1 FC Weights Average: -0.00016041044727899134
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6444324943608366
+--- End of Statistics ---
+
+Episode 188: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6429
+
+--- Statistics at Episode 188 ---
+Actor Layer 1 Conv Weights Average: 0.0014284607023000717
+Actor Layer 1 FC Weights Average: 8.409570000367239e-05
+Critic Layer 1 Conv Weights Average: -0.0058986227959394455
+Critic Layer 1 FC Weights Average: -0.00015541326138190925
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6428939613575532
+--- End of Statistics ---
+
+Episode 189: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6468
+
+--- Statistics at Episode 189 ---
+Actor Layer 1 Conv Weights Average: 0.001428576186299324
+Actor Layer 1 FC Weights Average: 8.409599831793457e-05
+Critic Layer 1 Conv Weights Average: -0.0058726961724460125
+Critic Layer 1 FC Weights Average: -0.00016376159328501672
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6468330250906613
+--- End of Statistics ---
+
+Episode 190: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6502
+
+--- Statistics at Episode 190 ---
+Actor Layer 1 Conv Weights Average: 0.001428636722266674
+Actor Layer 1 FC Weights Average: 8.409622387262061e-05
+Critic Layer 1 Conv Weights Average: -0.005923810880631208
+Critic Layer 1 FC Weights Average: -0.00017640291480347514
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6502483254913465
+--- End of Statistics ---
+
+Episode 191: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6253
+
+--- Statistics at Episode 191 ---
+Actor Layer 1 Conv Weights Average: 0.0014288630336523056
+Actor Layer 1 FC Weights Average: 8.409661677433178e-05
+Critic Layer 1 Conv Weights Average: -0.005897241178900003
+Critic Layer 1 FC Weights Average: -0.00017404720711056143
+Average Actor Loss: 0.0
+Average Critic Loss: 0.62529215431046
+--- End of Statistics ---
+
+Episode 192: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6309
+
+--- Statistics at Episode 192 ---
+Actor Layer 1 Conv Weights Average: 0.001428954885341227
+Actor Layer 1 FC Weights Average: 8.409689326072112e-05
+Critic Layer 1 Conv Weights Average: -0.005899315234273672
+Critic Layer 1 FC Weights Average: -0.00020614844106603414
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6308521250727506
+--- End of Statistics ---
+
+Episode 193: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6235
+
+--- Statistics at Episode 193 ---
+Actor Layer 1 Conv Weights Average: 0.0014290757244452834
+Actor Layer 1 FC Weights Average: 8.409720612689853e-05
+Critic Layer 1 Conv Weights Average: -0.005885977763682604
+Critic Layer 1 FC Weights Average: -0.00020227183995302767
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6234950373596465
+--- End of Statistics ---
+
+Episode 194: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6307
+
+--- Statistics at Episode 194 ---
+Actor Layer 1 Conv Weights Average: 0.001429197029210627
+Actor Layer 1 FC Weights Average: 8.409753354499117e-05
+Critic Layer 1 Conv Weights Average: -0.00589487561956048
+Critic Layer 1 FC Weights Average: -0.00021667304099537432
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6307462659698732
+--- End of Statistics ---
+
+Episode 195: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6425
+
+--- Statistics at Episode 195 ---
+Actor Layer 1 Conv Weights Average: 0.0014293343992903829
+Actor Layer 1 FC Weights Average: 8.409783913521096e-05
+Critic Layer 1 Conv Weights Average: -0.0059045483358204365
+Critic Layer 1 FC Weights Average: -0.00024161611509043723
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6424726775965666
+--- End of Statistics ---
+
+Episode 196: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6231
+
+--- Statistics at Episode 196 ---
+Actor Layer 1 Conv Weights Average: 0.0014294403372332454
+Actor Layer 1 FC Weights Average: 8.409813744947314e-05
+Critic Layer 1 Conv Weights Average: -0.005888344254344702
+Critic Layer 1 FC Weights Average: -0.00022390380036085844
+Average Actor Loss: 0.0
+Average Critic Loss: 0.623072383254813
+--- End of Statistics ---
+
+Episode 197: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6092
+
+--- Statistics at Episode 197 ---
+Actor Layer 1 Conv Weights Average: 0.0014294463908299804
+Actor Layer 1 FC Weights Average: 8.409834117628634e-05
+Critic Layer 1 Conv Weights Average: -0.0058889673091471195
+Critic Layer 1 FC Weights Average: -0.00021180935436859727
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6091822529410084
+--- End of Statistics ---
+
+Episode 198: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6169
+
+--- Statistics at Episode 198 ---
+Actor Layer 1 Conv Weights Average: 0.0014296602457761765
+Actor Layer 1 FC Weights Average: 8.409874135395512e-05
+Critic Layer 1 Conv Weights Average: -0.005894145462661982
+Critic Layer 1 FC Weights Average: -0.00022853641712572426
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6169082047530274
+--- End of Statistics ---
+
+Episode 199: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6246
+
+--- Statistics at Episode 199 ---
+Actor Layer 1 Conv Weights Average: 0.0014297793386504054
+Actor Layer 1 FC Weights Average: 8.409904694417492e-05
+Critic Layer 1 Conv Weights Average: -0.005910972133278847
+Critic Layer 1 FC Weights Average: -0.0002477753150742501
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6245927017429026
+--- End of Statistics ---
+
+Episode 200: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5807
+
+--- Statistics at Episode 200 ---
+Actor Layer 1 Conv Weights Average: 0.0014299167087301612
+Actor Layer 1 FC Weights Average: 8.409936708630994e-05
+Critic Layer 1 Conv Weights Average: -0.005863278638571501
+Critic Layer 1 FC Weights Average: -0.00023973456700332463
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5806786299678925
+--- End of Statistics ---
+
+Episode 201: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6072
+
+--- Statistics at Episode 201 ---
+Actor Layer 1 Conv Weights Average: 0.0014299681643024087
+Actor Layer 1 FC Weights Average: 8.409962902078405e-05
+Critic Layer 1 Conv Weights Average: -0.005873758811503649
+Critic Layer 1 FC Weights Average: -0.00023815094027668238
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6071699575594328
+--- End of Statistics ---
+
+Episode 202: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6021
+
+--- Statistics at Episode 202 ---
+Actor Layer 1 Conv Weights Average: 0.0014300375478342175
+Actor Layer 1 FC Weights Average: 8.409984002355486e-05
+Critic Layer 1 Conv Weights Average: -0.005892468616366386
+Critic Layer 1 FC Weights Average: -0.0002455426729284227
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6021354796674391
+--- End of Statistics ---
+
+Episode 203: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.6031
+
+--- Statistics at Episode 203 ---
+Actor Layer 1 Conv Weights Average: 0.0014301807386800647
+Actor Layer 1 FC Weights Average: 8.41001674416475e-05
+Critic Layer 1 Conv Weights Average: -0.00591138144955039
+Critic Layer 1 FC Weights Average: -0.0002535170642659068
+Average Actor Loss: 0.0
+Average Critic Loss: 0.6031437447226634
+--- End of Statistics ---
+
+Episode 204: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5833
+
+--- Statistics at Episode 204 ---
+Actor Layer 1 Conv Weights Average: 0.0014302688650786877
+Actor Layer 1 FC Weights Average: 8.410042937612161e-05
+Critic Layer 1 Conv Weights Average: -0.005903646815568209
+Critic Layer 1 FC Weights Average: -0.00026575211086310446
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5833321563979506
+--- End of Statistics ---
+
+Episode 205: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5771
+
+--- Statistics at Episode 205 ---
+Actor Layer 1 Conv Weights Average: 0.0014303718926385045
+Actor Layer 1 FC Weights Average: 8.410071313846856e-05
+Critic Layer 1 Conv Weights Average: -0.005894653499126434
+Critic Layer 1 FC Weights Average: -0.00027413354837335646
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5771053770290482
+--- End of Statistics ---
+
+Episode 206: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5882
+
+--- Statistics at Episode 206 ---
+Actor Layer 1 Conv Weights Average: 0.0014304079813882709
+Actor Layer 1 FC Weights Average: 8.41009386931546e-05
+Critic Layer 1 Conv Weights Average: -0.005918987561017275
+Critic Layer 1 FC Weights Average: -0.00027025898452848196
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5881730133684466
+--- End of Statistics ---
+
+Episode 207: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5669
+
+--- Statistics at Episode 207 ---
+Actor Layer 1 Conv Weights Average: 0.0014304014621302485
+Actor Layer 1 FC Weights Average: 8.410113514401019e-05
+Critic Layer 1 Conv Weights Average: -0.005910759791731834
+Critic Layer 1 FC Weights Average: -0.0002511505736038089
+Average Actor Loss: 0.0
+Average Critic Loss: 0.56693979577287
+--- End of Statistics ---
+
+Episode 208: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5666
+
+--- Statistics at Episode 208 ---
+Actor Layer 1 Conv Weights Average: 0.001430508797056973
+Actor Layer 1 FC Weights Average: 8.410142618231475e-05
+Critic Layer 1 Conv Weights Average: -0.005906969308853149
+Critic Layer 1 FC Weights Average: -0.00026133967912755907
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5666181607043861
+--- End of Statistics ---
+
+Episode 209: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5711
+
+--- Statistics at Episode 209 ---
+Actor Layer 1 Conv Weights Average: 0.0014306033262982965
+Actor Layer 1 FC Weights Average: 8.410171722061932e-05
+Critic Layer 1 Conv Weights Average: -0.0058366977609694
+Critic Layer 1 FC Weights Average: -0.0002701420453377068
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5711375620314509
+--- End of Statistics ---
+
+Episode 210: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5669
+
+--- Statistics at Episode 210 ---
+Actor Layer 1 Conv Weights Average: 0.0014307335950434208
+Actor Layer 1 FC Weights Average: 8.410202281083912e-05
+Critic Layer 1 Conv Weights Average: -0.005900026764720678
+Critic Layer 1 FC Weights Average: -0.00027065910398960114
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5669028255290786
+--- End of Statistics ---
+
+Episode 211: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5572
+
+--- Statistics at Episode 211 ---
+Actor Layer 1 Conv Weights Average: 0.0014307777164503932
+Actor Layer 1 FC Weights Average: 8.410224108956754e-05
+Critic Layer 1 Conv Weights Average: -0.005872495472431183
+Critic Layer 1 FC Weights Average: -0.0002749243285506964
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5572181025765428
+--- End of Statistics ---
+
+Episode 212: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5406
+
+--- Statistics at Episode 212 ---
+Actor Layer 1 Conv Weights Average: 0.0014308402314782143
+Actor Layer 1 FC Weights Average: 8.410248847212642e-05
+Critic Layer 1 Conv Weights Average: -0.005876559764146805
+Critic Layer 1 FC Weights Average: -0.0002515873056836426
+Average Actor Loss: 0.0
+Average Critic Loss: 0.540633910629257
+--- End of Statistics ---
+
+Episode 213: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5624
+
+--- Statistics at Episode 213 ---
+Actor Layer 1 Conv Weights Average: 0.0014308774843811989
+Actor Layer 1 FC Weights Average: 8.410270675085485e-05
+Critic Layer 1 Conv Weights Average: -0.005904052872210741
+Critic Layer 1 FC Weights Average: -0.00026112986961379647
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5624068352639362
+--- End of Statistics ---
+
+Episode 214: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5489
+
+--- Statistics at Episode 214 ---
+Actor Layer 1 Conv Weights Average: 0.0014309529215097427
+Actor Layer 1 FC Weights Average: 8.410295413341373e-05
+Critic Layer 1 Conv Weights Average: -0.005896533373743296
+Critic Layer 1 FC Weights Average: -0.00026178464759141207
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5488587008398366
+--- End of Statistics ---
+
+Episode 215: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5487
+
+--- Statistics at Episode 215 ---
+Actor Layer 1 Conv Weights Average: 0.0014309920370578766
+Actor Layer 1 FC Weights Average: 8.410317968809977e-05
+Critic Layer 1 Conv Weights Average: -0.0058915638364851475
+Critic Layer 1 FC Weights Average: -0.0002552542428020388
+Average Actor Loss: 0.0
+Average Critic Loss: 0.548668438704546
+--- End of Statistics ---
+
+Episode 216: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5318
+
+--- Statistics at Episode 216 ---
+Actor Layer 1 Conv Weights Average: 0.001430993084795773
+Actor Layer 1 FC Weights Average: 8.410335431108251e-05
+Critic Layer 1 Conv Weights Average: -0.005865770857781172
+Critic Layer 1 FC Weights Average: -0.000238758948398754
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5318363984810754
+--- End of Statistics ---
+
+Episode 217: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5417
+
+--- Statistics at Episode 217 ---
+Actor Layer 1 Conv Weights Average: 0.001431083190254867
+Actor Layer 1 FC Weights Average: 8.41036016936414e-05
+Critic Layer 1 Conv Weights Average: -0.005889956373721361
+Critic Layer 1 FC Weights Average: -0.000252987229032442
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5417083245144335
+--- End of Statistics ---
+
+Episode 218: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5453
+
+--- Statistics at Episode 218 ---
+Actor Layer 1 Conv Weights Average: 0.0014311583945527673
+Actor Layer 1 FC Weights Average: 8.410384907620028e-05
+Critic Layer 1 Conv Weights Average: -0.005902385804802179
+Critic Layer 1 FC Weights Average: -0.00025401980383321643
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5452790455785275
+--- End of Statistics ---
+
+Episode 219: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5202
+
+--- Statistics at Episode 219 ---
+Actor Layer 1 Conv Weights Average: 0.0014311573468148708
+Actor Layer 1 FC Weights Average: 8.41040164232254e-05
+Critic Layer 1 Conv Weights Average: -0.0058900839649140835
+Critic Layer 1 FC Weights Average: -0.00022868358064442873
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5202498177771254
+--- End of Statistics ---
+
+Episode 220: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5335
+
+--- Statistics at Episode 220 ---
+Actor Layer 1 Conv Weights Average: 0.001431233249604702
+Actor Layer 1 FC Weights Average: 8.410425652982667e-05
+Critic Layer 1 Conv Weights Average: -0.005925579462200403
+Critic Layer 1 FC Weights Average: -0.0002475901274010539
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5334722484867943
+--- End of Statistics ---
+
+Episode 221: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5291
+
+--- Statistics at Episode 221 ---
+Actor Layer 1 Conv Weights Average: 0.0014313305728137493
+Actor Layer 1 FC Weights Average: 8.41045257402584e-05
+Critic Layer 1 Conv Weights Average: -0.005912665277719498
+Critic Layer 1 FC Weights Average: -0.0002516354143153876
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5290661555056941
+--- End of Statistics ---
+
+Episode 222: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5222
+
+--- Statistics at Episode 222 ---
+Actor Layer 1 Conv Weights Average: 0.00143138924613595
+Actor Layer 1 FC Weights Average: 8.410475857090205e-05
+Critic Layer 1 Conv Weights Average: -0.005908606108278036
+Critic Layer 1 FC Weights Average: -0.0002518572728149593
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5221503404302504
+--- End of Statistics ---
+
+Episode 223: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5204
+
+--- Statistics at Episode 223 ---
+Actor Layer 1 Conv Weights Average: 0.0014314459403976798
+Actor Layer 1 FC Weights Average: 8.410496229771525e-05
+Critic Layer 1 Conv Weights Average: -0.005915430840104818
+Critic Layer 1 FC Weights Average: -0.00025593856116756797
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5203764598462816
+--- End of Statistics ---
+
+Episode 224: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5160
+
+--- Statistics at Episode 224 ---
+Actor Layer 1 Conv Weights Average: 0.00143149693030864
+Actor Layer 1 FC Weights Average: 8.410518785240129e-05
+Critic Layer 1 Conv Weights Average: -0.005910451989620924
+Critic Layer 1 FC Weights Average: -0.0002526954049244523
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5159590665907642
+--- End of Statistics ---
+
+Episode 225: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5160
+
+--- Statistics at Episode 225 ---
+Actor Layer 1 Conv Weights Average: 0.0014315553708001971
+Actor Layer 1 FC Weights Average: 8.41053988551721e-05
+Critic Layer 1 Conv Weights Average: -0.005865209270268679
+Critic Layer 1 FC Weights Average: -0.00026200711727142334
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5159726694023917
+--- End of Statistics ---
+
+Episode 226: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5079
+
+--- Statistics at Episode 226 ---
+Actor Layer 1 Conv Weights Average: 0.001431602519005537
+Actor Layer 1 FC Weights Average: 8.41056025819853e-05
+Critic Layer 1 Conv Weights Average: -0.005898450035601854
+Critic Layer 1 FC Weights Average: -0.0002558907144702971
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5079270369870775
+--- End of Statistics ---
+
+Episode 227: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5058
+
+--- Statistics at Episode 227 ---
+Actor Layer 1 Conv Weights Average: 0.0014316454762592912
+Actor Layer 1 FC Weights Average: 8.410578448092565e-05
+Critic Layer 1 Conv Weights Average: -0.005865149199962616
+Critic Layer 1 FC Weights Average: -0.0002595627447590232
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5057688276825208
+--- End of Statistics ---
+
+Episode 228: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5109
+
+--- Statistics at Episode 228 ---
+Actor Layer 1 Conv Weights Average: 0.0014317057793959975
+Actor Layer 1 FC Weights Average: 8.410600275965407e-05
+Critic Layer 1 Conv Weights Average: -0.005906696897000074
+Critic Layer 1 FC Weights Average: -0.0002646410430315882
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5109220740199163
+--- End of Statistics ---
+
+Episode 229: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5528
+
+--- Statistics at Episode 229 ---
+Actor Layer 1 Conv Weights Average: 0.0014317597961053252
+Actor Layer 1 FC Weights Average: 8.410619193455204e-05
+Critic Layer 1 Conv Weights Average: -0.005909143015742302
+Critic Layer 1 FC Weights Average: -0.00026898414944298565
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5527588433749036
+--- End of Statistics ---
+
+Episode 230: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.4948
+
+--- Statistics at Episode 230 ---
+Actor Layer 1 Conv Weights Average: 0.001431764685548842
+Actor Layer 1 FC Weights Average: 8.410631562583148e-05
+Critic Layer 1 Conv Weights Average: -0.0058232638984918594
+Critic Layer 1 FC Weights Average: -0.00021212917636148632
+Average Actor Loss: 0.0
+Average Critic Loss: 0.49477689123587953
+--- End of Statistics ---
+
+Episode 231: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.4997
+
+--- Statistics at Episode 231 ---
+Actor Layer 1 Conv Weights Average: 0.001431751879863441
+Actor Layer 1 FC Weights Average: 8.41064247651957e-05
+Critic Layer 1 Conv Weights Average: -0.005891983862966299
+Critic Layer 1 FC Weights Average: -0.00022242619888857007
+Average Actor Loss: 0.0
+Average Critic Loss: 0.4997208937794111
+--- End of Statistics ---
+
+Episode 232: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5074
+
+--- Statistics at Episode 232 ---
+Actor Layer 1 Conv Weights Average: 0.0014318156754598022
+Actor Layer 1 FC Weights Average: 8.410659211222082e-05
+Critic Layer 1 Conv Weights Average: -0.005865631625056267
+Critic Layer 1 FC Weights Average: -0.00023002366651780903
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5073800570269825
+--- End of Statistics ---
+
+Episode 233: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.4978
+
+--- Statistics at Episode 233 ---
+Actor Layer 1 Conv Weights Average: 0.001431874930858612
+Actor Layer 1 FC Weights Average: 8.410676673520356e-05
+Critic Layer 1 Conv Weights Average: -0.005895966198295355
+Critic Layer 1 FC Weights Average: -0.00023244338808581233
+Average Actor Loss: 0.0
+Average Critic Loss: 0.497833810188224
+--- End of Statistics ---
+
+Episode 234: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.4937
+
+--- Statistics at Episode 234 ---
+Actor Layer 1 Conv Weights Average: 0.0014318987959995866
+Actor Layer 1 FC Weights Average: 8.4106890426483e-05
+Critic Layer 1 Conv Weights Average: -0.00588574493303895
+Critic Layer 1 FC Weights Average: -0.00023143962607719004
+Average Actor Loss: 0.0
+Average Critic Loss: 0.4936718697851578
+--- End of Statistics ---
+
+Episode 235: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.4865
+
+--- Statistics at Episode 235 ---
+Actor Layer 1 Conv Weights Average: 0.001431940938346088
+Actor Layer 1 FC Weights Average: 8.410703594563529e-05
+Critic Layer 1 Conv Weights Average: -0.005863826721906662
+Critic Layer 1 FC Weights Average: -0.0002360720100114122
+Average Actor Loss: 0.0
+Average Critic Loss: 0.48649982429996197
+--- End of Statistics ---
+
+Episode 236: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.4954
+
+--- Statistics at Episode 236 ---
+Actor Layer 1 Conv Weights Average: 0.0014319769106805325
+Actor Layer 1 FC Weights Average: 8.410715236095712e-05
+Critic Layer 1 Conv Weights Average: -0.005869381129741669
+Critic Layer 1 FC Weights Average: -0.00023665468324907124
+Average Actor Loss: 0.0
+Average Critic Loss: 0.4954457170906269
+--- End of Statistics ---
+
+Episode 237: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.4944
+
+--- Statistics at Episode 237 ---
+Actor Layer 1 Conv Weights Average: 0.0014320352347567677
+Actor Layer 1 FC Weights Average: 8.410731243202463e-05
+Critic Layer 1 Conv Weights Average: -0.005823461338877678
+Critic Layer 1 FC Weights Average: -0.00023463396064471453
+Average Actor Loss: 0.0
+Average Critic Loss: 0.4944302959711403
+--- End of Statistics ---
+
+Episode 238: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.4840
+
+--- Statistics at Episode 238 ---
+Actor Layer 1 Conv Weights Average: 0.0014320601476356387
+Actor Layer 1 FC Weights Average: 8.410740701947361e-05
+Critic Layer 1 Conv Weights Average: -0.005788648035377264
+Critic Layer 1 FC Weights Average: -0.0002281242050230503
+Average Actor Loss: 0.0
+Average Critic Loss: 0.48401064496701773
+--- End of Statistics ---
+
+Episode 239: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.4884
+
+--- Statistics at Episode 239 ---
+Actor Layer 1 Conv Weights Average: 0.0014320624759420753
+Actor Layer 1 FC Weights Average: 8.410749433096498e-05
+Critic Layer 1 Conv Weights Average: -0.005844008643180132
+Critic Layer 1 FC Weights Average: -0.00023465151025447994
+Average Actor Loss: 0.0
+Average Critic Loss: 0.48838833335140575
+--- End of Statistics ---
+
+Episode 240: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.4759
+
+--- Statistics at Episode 240 ---
+Actor Layer 1 Conv Weights Average: 0.0014321082271635532
+Actor Layer 1 FC Weights Average: 8.410761802224442e-05
+Critic Layer 1 Conv Weights Average: -0.005801691208034754
+Critic Layer 1 FC Weights Average: -0.00023857010819483548
+Average Actor Loss: 0.0
+Average Critic Loss: 0.47594050952873684
+--- End of Statistics ---
+
+Episode 241: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 2.2654
+
+--- Statistics at Episode 241 ---
+Actor Layer 1 Conv Weights Average: 0.0014320999616757035
+Actor Layer 1 FC Weights Average: 8.41076544020325e-05
+Critic Layer 1 Conv Weights Average: -0.005955138709396124
+Critic Layer 1 FC Weights Average: -0.00024207729438785464
+Average Actor Loss: 0.0
+Average Critic Loss: 2.265365336429156
+--- End of Statistics ---
+
+Episode 242: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.5629
+
+--- Statistics at Episode 242 ---
+Actor Layer 1 Conv Weights Average: 0.0014324015937745571
+Actor Layer 1 FC Weights Average: 8.410804002778605e-05
+Critic Layer 1 Conv Weights Average: -0.005768151953816414
+Critic Layer 1 FC Weights Average: -0.00017397383635398
+Average Actor Loss: 0.0
+Average Critic Loss: 0.5629283817631994
+--- End of Statistics ---
+
+Episode 243: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.4640
+
+--- Statistics at Episode 243 ---
+Actor Layer 1 Conv Weights Average: 0.0014320123009383678
+Actor Layer 1 FC Weights Average: 8.41077053337358e-05
+Critic Layer 1 Conv Weights Average: -0.005769456271082163
+Critic Layer 1 FC Weights Average: -0.00020823586964979768
+Average Actor Loss: 0.0
+Average Critic Loss: 0.46403515280374064
+--- End of Statistics ---
+
+Episode 244: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.4605
+
+--- Statistics at Episode 244 ---
+Actor Layer 1 Conv Weights Average: 0.0014320936752483249
+Actor Layer 1 FC Weights Average: 8.410784357693046e-05
+Critic Layer 1 Conv Weights Average: -0.00582169508561492
+Critic Layer 1 FC Weights Average: -0.00022573620663024485
+Average Actor Loss: 0.0
+Average Critic Loss: 0.46054998453931795
+--- End of Statistics ---
+
+Episode 245: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.4633
+
+--- Statistics at Episode 245 ---
+Actor Layer 1 Conv Weights Average: 0.0014321288326755166
+Actor Layer 1 FC Weights Average: 8.410793816437945e-05
+Critic Layer 1 Conv Weights Average: -0.005843594204634428
+Critic Layer 1 FC Weights Average: -0.00023606429749634117
+Average Actor Loss: 0.0
+Average Critic Loss: 0.463250257229389
+--- End of Statistics ---
+
+Episode 246: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.4734
+
+--- Statistics at Episode 246 ---
+Actor Layer 1 Conv Weights Average: 0.001432151417247951
+Actor Layer 1 FC Weights Average: 8.410804002778605e-05
+Critic Layer 1 Conv Weights Average: -0.005871807690709829
+Critic Layer 1 FC Weights Average: -0.00024499124265275896
+Average Actor Loss: 0.0
+Average Critic Loss: 0.47344031605452574
+--- End of Statistics ---
+
+Episode 247: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.4671
+
+--- Statistics at Episode 247 ---
+Actor Layer 1 Conv Weights Average: 0.001432176330126822
+Actor Layer 1 FC Weights Average: 8.410814916715026e-05
+Critic Layer 1 Conv Weights Average: -0.005842159036546946
+Critic Layer 1 FC Weights Average: -0.0002367800334468484
+Average Actor Loss: 0.0
+Average Critic Loss: 0.4670929715225252
+--- End of Statistics ---
+
+Episode 248: Total Reward = -104.83999999999995, Avg Actor Loss = 0.0000, Avg Critic Loss = 0.4758
+
+--- Statistics at Episode 248 ---
+Actor Layer 1 Conv Weights Average: 0.0014322478091344237
+Actor Layer 1 FC Weights Average: 8.410830196226016e-05
+Critic Layer 1 Conv Weights Average: -0.005870443303138018
+Critic Layer 1 FC Weights Average: -0.00024741259403526783
+Average Actor Loss: 0.0
+Average Critic Loss: 0.4757564768296206
+--- End of Statistics ---
